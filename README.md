@@ -2,9 +2,11 @@
 
 [GeoJSON](https://geojson.org) and [TopoJSON](https://github.com/topojson/topojson) data for mountains in the Philippines.
 
+Check out the interactive map at [j4ckofalltrades.github.io/bukid](https://j4ckofalltrades.github.io/bukid)
+
 ## Metadata
 
-Metadata for each mountain can be parsed from the [Feature](https://datatracker.ietf.org/doc/html/rfc7946#section-3.2) `properties`.
+Metadata for each mountain can be parsed from the `properties` field.
 
 | field       | description                                                                              | required |
 |-------------|------------------------------------------------------------------------------------------|----------|
@@ -153,6 +155,6 @@ GeoJSON and TopoJSON data for Mount Apo.
 
 ## TODO
 
-[ ] Add location data (region and province) 
+- [] Add location data (region and province) 
 
-[ ] Interactive map
+- [x] Interactive map
