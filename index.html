@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>PH Mountains</title>
+    <title>búkid - PH Mountains</title>
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no"/>
     <script src="https://unpkg.com/maplibre-gl@2.1.9/dist/maplibre-gl.js"></script>
     <link href="https://unpkg.com/maplibre-gl@2.1.9/dist/maplibre-gl.css" rel="stylesheet"/>
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
     <style>
         body {
             margin: 0;
@@ -18,12 +19,45 @@
             bottom: 0;
             width: 100%;
         }
+
+        #logo {
+            position: absolute;
+            left: 10px;
+            z-index: 1;
+        }
+
+        .filter-ctrl {
+            position: absolute;
+            top: 190px;
+            left: 25px;
+            z-index: 1;
+        }
+
+        .filter-ctrl input[type='text'] {
+            font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            border: 0;
+            background-color: #fff;
+            margin: 0;
+            color: rgba(0, 0, 0, 0.5);
+            padding: 10px;
+            box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+            border-radius: 3px;
+            width: 140px;
+        }
     </style>
 </head>
 <body>
+<div id="logo">
+    <img src="assets/logo.png" alt="logo"/>
+</div>
 <div id="map"></div>
+<div class="filter-ctrl">
+    <label for="filter-input"></label>
+    <input id="filter-input" type="text" name="filter" placeholder="Filter by name"/>
+</div>
 <script>
-  var map = new maplibregl.Map({
+  // set initial load point to PH
+  const map = new maplibregl.Map({
     container: 'map',
     style: 'https://api.maptiler.com/maps/topo/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
     center: [121.652, 12.954],
@@ -31,6 +65,7 @@
   });
 
   map.on('load', function () {
+    // load full PH mountain geojson dataset
     map.addSource('mountains', {
       'type': 'geojson',
       'data': './data/geojson/index.geojson'
@@ -43,6 +78,7 @@
       'layout': {
         'icon-image': ['image', 'mountain_15'],
         'icon-overlap': 'cooperative',
+        "icon-size": 1.25,
         'text-field': ['get', 'name'],
         'text-size': 11,
         'text-font': [
@@ -55,9 +91,21 @@
     });
 
     map.addControl(new maplibregl.NavigationControl());
+
+    // search by mountain name
+    const filterInput = document.getElementById('filter-input');
+    filterInput.addEventListener('keyup', function (e) {
+      const value = e.target.value.trim().toLowerCase()
+      if (value) {
+        map.setFilter('mountains', ['==', ['downcase', ['get', 'name']], value])
+      } else {
+        map.setFilter('mountains', null)
+      }
+    });
   });
 
-  var popup = new maplibregl.Popup({
+  // show mountain details on hover
+  const popup = new maplibregl.Popup({
     closeButton: false,
     closeOnClick: false
   });
@@ -65,23 +113,25 @@
   map.on('mouseenter', 'mountains', function (e) {
     map.getCanvas().style.cursor = 'pointer';
 
-    var coordinates = e.features[0].geometry.coordinates.slice();
+    const coordinates = e.features[0].geometry.coordinates.slice();
     while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
       coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
     }
 
-    var name = e.features[0].properties.name;
-    var elevation = e.features[0].properties.elev;
-    var prominence = e.features[0].properties.prom;
+    const name = e.features[0].properties.name;
+    const formattedName =
+        (name.includes("Peak") || name.includes("Mountain") || name.includes("Mount") || name.includes("Mt"))
+            ? name : "Mount " + name
+    const elevation = e.features[0].properties.elev;
+    const prominence = e.features[0].properties.prom;
 
     popup.setLngLat(coordinates)
         .setHTML(
-            "<div>" +
-            "<strong>Name: </strong>" + name + "<br/>" +
-            "<strong>Elevation: </strong>" + elevation + "<br/>" +
-            "<strong>Prominence: </strong>" + prominence + "<br/>" +
-            "</div>"
-        )
+            "<strong>" + formattedName + "</strong>" +
+            "<p>" +
+            "Elevation: " + elevation + "m" + "<br/>" +
+            "Prominence: " + prominence + "m" + "<br/>" +
+            "</p>")
         .addTo(map);
   });
 

@@ -1,8 +1,24 @@
-# búkid :philippines: :mountain:
+<div align="center">
+  <br/>
+  <a href="https://github.com/j4ckofalltrades/bukid">
+    <img src="assets/logo.png" alt="Logo">
+  </a>
 
-[GeoJSON](https://geojson.org) and [TopoJSON](https://github.com/topojson/topojson) data for mountains in the Philippines.
-
-Check out the interactive map at [j4ckofalltrades.github.io/bukid](https://j4ckofalltrades.github.io/bukid)
+  <p align="center">
+    <a href="https://geojson.org">
+      GeoJSON
+    </a>
+    and
+    <a href="https://github.com/topojson/topojson">
+      TopoJSON
+    </a>
+    data for mountains in the Philippines.
+  </p>
+  <p align="center">
+    Check out the interactive map at
+    <a href="https://j4ckofalltrades.github.io/bukid">j4ckofalltrades.github.io/bukid</a>
+  </p>
+</div>
 
 ## Metadata
 
