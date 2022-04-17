@@ -119,19 +119,20 @@
     }
 
     const name = e.features[0].properties.name;
-    const formattedName =
-        (name.includes("Peak") || name.includes("Mountain") || name.includes("Mount") || name.includes("Mt"))
-            ? name : "Mount " + name
     const elevation = e.features[0].properties.elev;
     const prominence = e.features[0].properties.prom;
+    const provinces = JSON.parse(e.features[0].properties.prov);
+    const regions = JSON.parse(e.features[0].properties.region);
 
     popup.setLngLat(coordinates)
         .setHTML(
-            "<strong>" + formattedName + "</strong>" +
-            "<p>" +
-            "Elevation: " + elevation + "m" + "<br/>" +
-            "Prominence: " + prominence + "m" + "<br/>" +
-            "</p>")
+            "<strong>" + name + "</strong>"
+            + "<p>"
+            + "Elevation: " + elevation + "m" + "<br/>"
+            + "Prominence: " + prominence + "m" + "<br/>"
+            + "Province: " + provinces.join(", ") + "<br/>"
+            + "Region: " + regions.join(", ") + "<br/>"
+            + "</p>")
         .addTo(map);
   });
 
