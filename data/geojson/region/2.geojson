@@ -6,33 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.465719,
-          14.519071
-        ]
-      },
-      "properties": {
-        "name": "Baktutan Peak",
-        "elev": 1398,
-        "prom": 1256,
-        "coord": "14°31′9″N 120°27′57″E",
-        "prov": [
-          "Bataan"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.93326,
           18.950053
         ]
@@ -48,61 +21,6 @@
         ],
         "region": [
           "Region II"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.365653,
-          14.946052
-        ]
-      },
-      "properties": {
-        "name": "Balikabok",
-        "elev": 849,
-        "prom": 308,
-        "coord": "14°56′46″N 120°21′56″E",
-        "is_volc": true,
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          122.050814,
-          16.088953
-        ]
-      },
-      "properties": {
-        "name": "Baltimore Peak",
-        "elev": 508,
-        "prom": 492,
-        "coord": "16°5′20″N 122°3′3″E",
-        "prov": [
-          "Aurora"
-        ],
-        "region": [
-          "Region III"
         ],
         "isl_grp": "Luzon",
         "alt_names": [],
@@ -171,33 +89,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.153094,
-          15.096785
-        ]
-      },
-      "properties": {
-        "name": "Bulacan Peak",
-        "elev": 899,
-        "prom": 374,
-        "coord": "15°5′48″N 121°9′11″E",
-        "prov": [
-          "Bulacan"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.928736,
           20.703061
         ]
@@ -226,87 +117,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.590401,
-          15.70208
-        ]
-      },
-      "properties": {
-        "name": "Disogsip Mountain",
-        "elev": 625,
-        "prom": 345,
-        "coord": "15°42′7″N 121°35′25″E",
-        "prov": [
-          "Aurora"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.889166,
-          16.253861
-        ]
-      },
-      "properties": {
-        "name": "Mount Anacuao",
-        "elev": 1833,
-        "prom": 1364,
-        "coord": "16°15′14″N 121°53′21″E",
-        "prov": [
-          "Aurora"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.742317,
-          15.205103
-        ]
-      },
-      "properties": {
-        "name": "Mount Arayat North Peak",
-        "elev": 1033,
-        "prom": 998,
-        "coord": "15°12′18″N 120°44′32″E",
-        "prov": [
-          "Pampanga"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           120.937094,
           16.447527
         ]
@@ -321,114 +131,6 @@
         ],
         "region": [
           "Region II"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.125779,
-          14.856682
-        ]
-      },
-      "properties": {
-        "name": "Mount Balingkilat",
-        "elev": 1100,
-        "prom": 1043,
-        "coord": "14°51′24″N 120°7′33″E",
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.219979,
-          15.263879
-        ]
-      },
-      "properties": {
-        "name": "Mount Balintingon",
-        "elev": 802,
-        "prom": 351,
-        "coord": "15°15′50″N 121°13′12″E",
-        "prov": [
-          "Nueva Ecija"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.732866,
-          15.778836
-        ]
-      },
-      "properties": {
-        "name": "Mount Bangcay",
-        "elev": 408,
-        "prom": 322,
-        "coord": "15°46′44″N 120°43′58″E",
-        "prov": [
-          "Nueva Ecija"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.042532,
-          15.232358
-        ]
-      },
-      "properties": {
-        "name": "Mount Botolan",
-        "elev": 567,
-        "prom": 361,
-        "coord": "15°13′56″N 120°2′33″E",
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
         ],
         "isl_grp": "Luzon",
         "alt_names": [],
@@ -578,33 +280,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.360346,
-          15.030139
-        ]
-      },
-      "properties": {
-        "name": "Mount Cuadrado",
-        "elev": 1324,
-        "prom": 407,
-        "coord": "15°1′49″N 120°21′37″E",
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.078068,
           16.548707
         ]
@@ -646,60 +321,6 @@
         ],
         "region": [
           "Region II"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.469425,
-          15.637819
-        ]
-      },
-      "properties": {
-        "name": "Mount Danayag",
-        "elev": 1579,
-        "prom": 429,
-        "coord": "15°38′16″N 121°28′10″E",
-        "prov": [
-          "Aurora"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.137383,
-          14.806395
-        ]
-      },
-      "properties": {
-        "name": "Mount Dayungan",
-        "elev": 922,
-        "prom": 560,
-        "coord": "14°48′23″N 120°8′15″E",
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
         ],
         "isl_grp": "Luzon",
         "alt_names": [],
@@ -875,33 +496,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.038413,
-          15.646816
-        ]
-      },
-      "properties": {
-        "name": "Mount Lanat",
-        "elev": 1110,
-        "prom": 607,
-        "coord": "15°38′49″N 120°2′18″E",
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.226769,
           18.46472
         ]
@@ -916,33 +510,6 @@
         ],
         "region": [
           "Region II"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.173448,
-          15.161958
-        ]
-      },
-      "properties": {
-        "name": "Mount Lunitan",
-        "elev": 1318,
-        "prom": 970,
-        "coord": "15°9′43″N 120°10′24″E",
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
         ],
         "isl_grp": "Luzon",
         "alt_names": [],
@@ -1037,88 +604,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.065408,
-          15.873807
-        ]
-      },
-      "properties": {
-        "name": "Mount Maloyon",
-        "elev": 827,
-        "prom": 531,
-        "coord": "15°52′26″N 121°3′55″E",
-        "prov": [
-          "Nueva Ecija"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.190197,
-          15.071872
-        ]
-      },
-      "properties": {
-        "name": "Mount Maquineng",
-        "elev": 785,
-        "prom": 564,
-        "coord": "15°4′19″N 120°11′25″E",
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.404751,
-          15.480643
-        ]
-      },
-      "properties": {
-        "name": "Mount Mingan",
-        "elev": 1901,
-        "prom": 1599,
-        "coord": "15°28′50″N 121°24′17″E",
-        "is_volc": false,
-        "prov": [
-          "Aurora"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.233665,
           16.03967
         ]
@@ -1133,115 +618,6 @@
         ],
         "region": [
           "Region II"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.401185,
-          14.712522
-        ]
-      },
-      "properties": {
-        "name": "Mount Natib",
-        "elev": 1253,
-        "prom": 1093,
-        "coord": "14°42′45″N 120°24′4″E",
-        "prov": [
-          "Bataan"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.368575,
-          15.092675
-        ]
-      },
-      "properties": {
-        "name": "Mount Negron",
-        "elev": 1583,
-        "prom": 1151,
-        "coord": "15°5′34″N 120°22′7″E",
-        "prov": [
-          "Pampanga",
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.156016,
-          15.961103
-        ]
-      },
-      "properties": {
-        "name": "Mount Olong Amo",
-        "elev": 1187,
-        "prom": 314,
-        "coord": "15°57′40″N 121°9′22″E",
-        "prov": [
-          "Nueva Ecija"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.221075,
-          14.8695
-        ]
-      },
-      "properties": {
-        "name": "Mount Oriod",
-        "elev": 1188,
-        "prom": 513,
-        "coord": "14°52′10″N 121°13′16″E",
-        "prov": [
-          "Bulacan"
-        ],
-        "region": [
-          "Region III"
         ],
         "isl_grp": "Luzon",
         "alt_names": [],
@@ -1363,88 +739,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.062727,
-          15.374548
-        ]
-      },
-      "properties": {
-        "name": "Mount Patugo",
-        "elev": 772,
-        "prom": 376,
-        "coord": "15°22′28″N 120°3′46″E",
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.164275,
-          15.044425
-        ]
-      },
-      "properties": {
-        "name": "Mount Payte",
-        "elev": 703,
-        "prom": 312,
-        "coord": "15°2′40″N 120°9′51″E",
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.350997,
-          15.144551
-        ]
-      },
-      "properties": {
-        "name": "Mount Pinatubo",
-        "elev": 1445,
-        "prom": 518,
-        "coord": "15°8′40″N 120°21′4″E",
-        "is_volc": true,
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           120.898741,
           16.598142
         ]
@@ -1476,33 +770,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.485731,
-          15.933533
-        ]
-      },
-      "properties": {
-        "name": "Mount Pungugupanunga",
-        "elev": 1360,
-        "prom": 630,
-        "coord": "15°56′1″N 121°29′9″E",
-        "prov": [
-          "Aurora"
-        ],
-        "region": [
-          "Region III"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.213579,
           16.342478
         ]
@@ -1517,34 +784,6 @@
         ],
         "region": [
           "Region II"
-        ],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.121281,
-          15.480779
-        ]
-      },
-      "properties": {
-        "name": "Mount Tapulao",
-        "elev": 2034,
-        "prom": 2009,
-        "coord": "15°28′51″N 120°7′17″E",
-        "is_volc": false,
-        "prov": [
-          "Zambales"
-        ],
-        "region": [
-          "Region III"
         ],
         "isl_grp": "Luzon",
         "alt_names": [],
