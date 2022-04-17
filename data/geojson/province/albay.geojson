@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.685469,
+          13.255579
+        ]
+      },
+      "properties": {
+        "name": "Mayon",
+        "elev": 2460,
+        "prom": 2445,
+        "coord": "13°15′20″N 123°41′8″E",
+        "is_volc": true,
+        "prov": [
+          "Albay"
+        ],
+        "region": [
+          "Region V"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.331706,
+          13.065985
+        ]
+      },
+      "properties": {
+        "name": "Mount Caburauan",
+        "elev": 466,
+        "prom": 352,
+        "coord": "13°3′58″N 123°19′54″E",
+        "prov": [
+          "Albay"
+        ],
+        "region": [
+          "Region V"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.597548,
+          13.309901
+        ]
+      },
+      "properties": {
+        "name": "Mount Masaraga",
+        "elev": 1328,
+        "prom": 1002,
+        "coord": "13°18′36″N 123°35′51″E",
+        "prov": [
+          "Albay"
+        ],
+        "region": [
+          "Region V"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.159033,
+          13.199917
+        ]
+      },
+      "properties": {
+        "name": "Mount Rapu Rapu",
+        "elev": 521,
+        "prom": 521,
+        "coord": "13°11′60″N 124°9′33″E",
+        "prov": [
+          "Albay"
+        ],
+        "region": [
+          "Region V"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.013193,
+          13.231426
+        ]
+      },
+      "properties": {
+        "name": "Mount Vizcaya",
+        "elev": 396,
+        "prom": 396,
+        "coord": "13°13′53″N 124°0′47″E",
+        "prov": [
+          "Albay"
+        ],
+        "region": [
+          "Region V"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.607465,
+          13.402754
+        ]
+      },
+      "properties": {
+        "name": "South Summit",
+        "elev": 1612,
+        "prom": 1324,
+        "coord": "13°24′10″N 123°36′27″E",
+        "prov": [
+          "Albay"
+        ],
+        "region": [
+          "Region V"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

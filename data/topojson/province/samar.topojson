@@ -1,0 +1,234 @@
+{
+  "type": "Topology",
+  "objects": {
+    "mountains": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            124.422861,
+            11.973578
+          ],
+          "properties": {
+            "name": "Camandag",
+            "elev": 432,
+            "prom": 432,
+            "coord": "11°58′25″N 124°25′22″E",
+            "is_volc": true,
+            "prov": [
+              "Samar"
+            ],
+            "region": [
+              "Region VIII"
+            ],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            125.160814,
+            12.437054
+          ],
+          "properties": {
+            "name": "Mount Boboyaon",
+            "elev": 465,
+            "prom": 385,
+            "coord": "12°26′13″N 125°9′39″E",
+            "prov": [
+              "Northern Samar"
+            ],
+            "region": [
+              "Region VIII"
+            ],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            124.859578,
+            11.641525
+          ],
+          "properties": {
+            "name": "Mount Campundoy",
+            "elev": 354,
+            "prom": 354,
+            "coord": "11°38′29″N 124°51′34″E",
+            "prov": [
+              "Samar"
+            ],
+            "region": [
+              "Region VIII"
+            ],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            124.935405,
+            12.152784
+          ],
+          "properties": {
+            "name": "Mount Capotoan",
+            "elev": 850,
+            "prom": 628,
+            "coord": "12°9′10″N 124°56′7″E",
+            "prov": [
+              "Samar"
+            ],
+            "region": [
+              "Region VIII"
+            ],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            125.052187,
+            12.066282
+          ],
+          "properties": {
+            "name": "Mount Huraw",
+            "elev": 890,
+            "prom": 890,
+            "coord": "12°3′59″N 125°3′8″E",
+            "prov": [
+              "Samar"
+            ],
+            "region": [
+              "Region VIII"
+            ],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            125.291279,
+            11.636228
+          ],
+          "properties": {
+            "name": "Mount Mactaon",
+            "elev": 683,
+            "prom": 587,
+            "coord": "11°38′10″N 125°17′29″E",
+            "prov": [
+              "Eastern Samar"
+            ],
+            "region": [
+              "Region VIII"
+            ],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            124.302299,
+            11.912483
+          ],
+          "properties": {
+            "name": "Mount Opao",
+            "elev": 553,
+            "prom": 553,
+            "coord": "11°54′45″N 124°18′8″E",
+            "prov": [
+              "Samar"
+            ],
+            "region": [
+              "Region VIII"
+            ],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            124.382393,
+            12.358406
+          ],
+          "properties": {
+            "name": "Mount Saamong",
+            "elev": 513,
+            "prom": 401,
+            "coord": "12°21′30″N 124°22′57″E",
+            "prov": [
+              "Northern Samar"
+            ],
+            "region": [
+              "Region VIII"
+            ],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            124.434644,
+            11.906818
+          ],
+          "properties": {
+            "name": "Mount Santo Niño",
+            "elev": 465,
+            "prom": 465,
+            "coord": "11°54′25″N 124°26′5″E",
+            "prov": [
+              "Samar"
+            ],
+            "region": [
+              "Region VIII"
+            ],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "bbox": [
+    124.302299,
+    11.636228,
+    125.291279,
+    12.437054
+  ]
+}

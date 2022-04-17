@@ -1,0 +1,92 @@
+{
+  "type": "Topology",
+  "objects": {
+    "mountains": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            123.62301,
+            8.377826
+          ],
+          "properties": {
+            "name": "Mount Ampiro",
+            "elev": 1532,
+            "prom": 395,
+            "coord": "8°22′40″N 123°37′23″E",
+            "is_volc": true,
+            "prov": [
+              "Misamis Occidental"
+            ],
+            "region": [
+              "Region X"
+            ],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            123.635937,
+            8.216815
+          ],
+          "properties": {
+            "name": "Mount Malindang",
+            "elev": 2404,
+            "prom": 2290,
+            "coord": "8°13′1″N 123°38′9″E",
+            "is_volc": true,
+            "prov": [
+              "Misamis Occidental"
+            ],
+            "region": [
+              "Region X"
+            ],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            123.62947,
+            8.29292
+          ],
+          "properties": {
+            "name": "North Peak",
+            "elev": 2183,
+            "prom": 422,
+            "coord": "8°17′35″N 123°37′46″E",
+            "is_volc": true,
+            "prov": [
+              "Misamis Occidental"
+            ],
+            "region": [
+              "Region X"
+            ],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "bbox": [
+    123.62301,
+    8.216815,
+    123.635937,
+    8.377826
+  ]
+}

@@ -1,0 +1,1014 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.365544,
+          14.149268
+        ]
+      },
+      "properties": {
+        "name": "Atimbia",
+        "elev": 664,
+        "prom": 453,
+        "coord": "14°8′57″N 121°21′56″E",
+        "prov": [
+          "Laguna"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513259,
+          14.076033
+        ]
+      },
+      "properties": {
+        "name": "Banahao De Lucban",
+        "elev": 1875,
+        "prom": 323,
+        "coord": "14°4′34″N 121°30′48″E",
+        "is_volc": true,
+        "prov": [
+          "Quezon"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.765019,
+          14.1147
+        ]
+      },
+      "properties": {
+        "name": "Cariliao",
+        "elev": 656,
+        "prom": 336,
+        "coord": "14°6′53″N 120°45′54″E",
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.321787,
+          14.124179
+        ]
+      },
+      "properties": {
+        "name": "Lagula",
+        "elev": 493,
+        "prom": 349,
+        "coord": "14°7′27″N 121°19′18″E",
+        "prov": [
+          "Laguna"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.180801,
+          14.824315
+        ]
+      },
+      "properties": {
+        "name": "Mount Balagbag",
+        "elev": 793,
+        "prom": 320,
+        "coord": "14°49′28″N 121°10′51″E",
+        "prov": [
+          "Rizal"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.492084,
+          14.067237
+        ]
+      },
+      "properties": {
+        "name": "Mount Banahaw",
+        "elev": 2169,
+        "prom": 1925,
+        "coord": "14°4′2″N 121°29′32″E",
+        "is_volc": true,
+        "prov": [
+          "Quezon"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.164774,
+          13.696806
+        ]
+      },
+      "properties": {
+        "name": "Mount Banoy",
+        "elev": 964,
+        "prom": 795,
+        "coord": "13°41′49″N 121°9′53″E",
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.294689,
+          14.778017
+        ]
+      },
+      "properties": {
+        "name": "Mount Batay",
+        "elev": 1400,
+        "prom": 485,
+        "coord": "14°46′41″N 121°17′41″E",
+        "prov": [
+          "Rizal"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.802134,
+          14.039838
+        ]
+      },
+      "properties": {
+        "name": "Mount Batulao",
+        "elev": 811,
+        "prom": 660,
+        "coord": "14°2′23″N 120°48′8″E",
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.548045,
+          14.638181
+        ]
+      },
+      "properties": {
+        "name": "Mount Binangonan",
+        "elev": 1078,
+        "prom": 780,
+        "coord": "14°38′17″N 121°32′53″E",
+        "prov": [
+          "Quezon"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557544,
+          14.775114
+        ]
+      },
+      "properties": {
+        "name": "Mount Binuang",
+        "elev": 1095,
+        "prom": 544,
+        "coord": "14°46′30″N 121°33′27″E",
+        "prov": [
+          "Quezon"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.022173,
+          14.141792
+        ]
+      },
+      "properties": {
+        "name": "Mount Camagong",
+        "elev": 418,
+        "prom": 418,
+        "coord": "14°8′30″N 122°1′20″E",
+        "prov": [
+          "Quezon"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.911462,
+          13.641671
+        ]
+      },
+      "properties": {
+        "name": "Mount Casapao",
+        "elev": 450,
+        "prom": 450,
+        "coord": "13°38′30″N 120°54′41″E",
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.651101,
+          14.136695
+        ]
+      },
+      "properties": {
+        "name": "Mount Cayluya",
+        "elev": 436,
+        "prom": 354,
+        "coord": "14°8′12″N 120°39′4″E",
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.898143,
+          13.72281
+        ]
+      },
+      "properties": {
+        "name": "Mount Gulugod Baboy",
+        "elev": 500,
+        "prom": 468,
+        "coord": "13°43′22″N 120°53′53″E",
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.336816,
+          14.811926
+        ]
+      },
+      "properties": {
+        "name": "Mount Irid",
+        "elev": 1509,
+        "prom": 1235,
+        "coord": "14°48′43″N 121°20′13″E",
+        "prov": [
+          "Rizal"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.315481,
+          14.644645
+        ]
+      },
+      "properties": {
+        "name": "Mount Kanumay",
+        "elev": 967,
+        "prom": 501,
+        "coord": "14°38′41″N 121°18′56″E",
+        "prov": [
+          "Rizal"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.560089,
+          13.390555
+        ]
+      },
+      "properties": {
+        "name": "Mount Kodiapi",
+        "elev": 456,
+        "prom": 417,
+        "coord": "13°23′26″N 122°33′36″E",
+        "prov": [
+          "Quezon"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.787626,
+          14.0129
+        ]
+      },
+      "properties": {
+        "name": "Mount Labo",
+        "elev": 1544,
+        "prom": 1520,
+        "coord": "14°0′46″N 122°47′15″E",
+        "is_volc": false,
+        "prov": [
+          "Quezon",
+          "Camarines Norte",
+          "Camarines Sur"
+        ],
+        "region": [
+          "Region IV-A",
+          "Region V"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.293038,
+          13.650198
+        ]
+      },
+      "properties": {
+        "name": "Mount Lobo",
+        "elev": 974,
+        "prom": 841,
+        "coord": "13°39′1″N 121°17′35″E",
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.319698,
+          14.879422
+        ]
+      },
+      "properties": {
+        "name": "Mount Macatohuol",
+        "elev": 1369,
+        "prom": 472,
+        "coord": "14°52′46″N 121°19′11″E",
+        "prov": [
+          "Rizal"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.051571,
+          13.920591
+        ]
+      },
+      "properties": {
+        "name": "Mount Maculot",
+        "elev": 957,
+        "prom": 609,
+        "coord": "13°55′14″N 121°3′6″E",
+        "is_volc": true,
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.193743,
+          14.135773
+        ]
+      },
+      "properties": {
+        "name": "Mount Makiling Peak 2",
+        "elev": 1110,
+        "prom": 992,
+        "coord": "14°8′9″N 121°11′37″E",
+        "prov": [
+          "Laguna"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.436337,
+          14.685577
+        ]
+      },
+      "properties": {
+        "name": "Mount Malabito",
+        "elev": 1334,
+        "prom": 758,
+        "coord": "14°41′8″N 121°26′11″E",
+        "prov": [
+          "Quezon"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.239495,
+          13.963087
+        ]
+      },
+      "properties": {
+        "name": "Mount Malepunyo",
+        "elev": 1015,
+        "prom": 797,
+        "coord": "13°57′47″N 121°14′22″E",
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.944843,
+          14.791941
+        ]
+      },
+      "properties": {
+        "name": "Mount Malolo",
+        "elev": 324,
+        "prom": 324,
+        "coord": "14°47′31″N 121°56′41″E",
+        "prov": [
+          "Quezon"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.686236,
+          14.204478
+        ]
+      },
+      "properties": {
+        "name": "Mount Mataas na Gulod",
+        "elev": 642,
+        "prom": 329,
+        "coord": "14°12′16″N 120°41′10″E",
+        "prov": [
+          "Cavite"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.60502,
+          14.205183
+        ]
+      },
+      "properties": {
+        "name": "Mount Nagilang",
+        "elev": 441,
+        "prom": 316,
+        "coord": "14°12′19″N 120°36′18″E",
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.646051,
+          14.21419
+        ]
+      },
+      "properties": {
+        "name": "Mount Pico de Loro",
+        "elev": 688,
+        "prom": 500,
+        "coord": "14°12′51″N 120°38′46″E",
+        "prov": [
+          "Cavite",
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.105559,
+          13.653546
+        ]
+      },
+      "properties": {
+        "name": "Mount Pinamucan",
+        "elev": 794,
+        "prom": 498,
+        "coord": "13°39′13″N 121°6′20″E",
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.426661,
+          14.064392
+        ]
+      },
+      "properties": {
+        "name": "Mount San Cristobal",
+        "elev": 1487,
+        "prom": 640,
+        "coord": "14°3′52″N 121°25′36″E",
+        "prov": [
+          "Laguna"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.358633,
+          14.621041
+        ]
+      },
+      "properties": {
+        "name": "Mount Sapari",
+        "elev": 851,
+        "prom": 414,
+        "coord": "14°37′16″N 121°21′31″E",
+        "prov": [
+          "Rizal"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.365146,
+          14.385127
+        ]
+      },
+      "properties": {
+        "name": "Mount Sembrano",
+        "elev": 743,
+        "prom": 496,
+        "coord": "14°23′6″N 121°21′55″E",
+        "prov": [
+          "Laguna",
+          "Rizal"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.232503,
+          14.339156
+        ]
+      },
+      "properties": {
+        "name": "Mount Tagapo",
+        "elev": 438,
+        "prom": 434,
+        "coord": "14°20′21″N 121°13′57″E",
+        "prov": [
+          "Rizal"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.811557,
+          13.999187
+        ]
+      },
+      "properties": {
+        "name": "Pinagbanderahan",
+        "elev": 386,
+        "prom": 307,
+        "coord": "13°59′57″N 121°48′42″E",
+        "prov": [
+          "Quezon"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.083522,
+          13.561373
+        ]
+      },
+      "properties": {
+        "name": "Verde",
+        "elev": 364,
+        "prom": 364,
+        "coord": "13°33′41″N 121°5′1″E",
+        "is_volc": true,
+        "prov": [
+          "Batangas"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.385882,
+          14.998739
+        ]
+      },
+      "properties": {
+        "name": "Unnamed mountain",
+        "elev": 1120,
+        "prom": 606,
+        "coord": "14°59′55″N 121°23′9″E",
+        "prov": [
+          "Quezon"
+        ],
+        "region": [
+          "Region IV-A"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

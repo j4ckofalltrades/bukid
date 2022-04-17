@@ -1,0 +1,90 @@
+{
+  "type": "Topology",
+  "objects": {
+    "mountains": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            123.850381,
+            8.055532
+          ],
+          "properties": {
+            "name": "Catmon",
+            "elev": 582,
+            "prom": 360,
+            "coord": "8°3′20″N 123°51′1″E",
+            "is_volc": true,
+            "prov": [
+              "Lanao del Norte"
+            ],
+            "region": [
+              "Region X"
+            ],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            124.457581,
+            8.104427
+          ],
+          "properties": {
+            "name": "Mount Amungan",
+            "elev": 1301,
+            "prom": 394,
+            "coord": "8°6′16″N 124°27′27″E",
+            "prov": [
+              "Lanao del Norte"
+            ],
+            "region": [
+              "Region X"
+            ],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            123.926389,
+            7.819167
+          ],
+          "properties": {
+            "name": "Mount Iniaoan",
+            "elev": 1535,
+            "prom": 510,
+            "coord": "7°49′9″N 123°55′35″E",
+            "prov": [
+              "Lanao del Norte"
+            ],
+            "region": [
+              "Region X"
+            ],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "bbox": [
+    123.850381,
+    7.819167,
+    124.457581,
+    8.104427
+  ]
+}

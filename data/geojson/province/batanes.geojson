@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.928736,
+          20.703061
+        ]
+      },
+      "properties": {
+        "name": "Diogo",
+        "elev": 547,
+        "prom": 547,
+        "coord": "20°42′11″N 121°55′43″E",
+        "is_volc": true,
+        "prov": [
+          "Batanes"
+        ],
+        "region": [
+          "Region II"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.011452,
+          20.466595
+        ]
+      },
+      "properties": {
+        "name": "Mount Iraya",
+        "elev": 1008,
+        "prom": 1008,
+        "coord": "20°27′60″N 122°0′41″E",
+        "prov": [
+          "Batanes"
+        ],
+        "region": [
+          "Region II"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.943066,
+          20.391131
+        ]
+      },
+      "properties": {
+        "name": "Mount Mahtarem",
+        "elev": 453,
+        "prom": 393,
+        "coord": "20°23′28″N 121°56′35″E",
+        "prov": [
+          "Batanes"
+        ],
+        "region": [
+          "Region II"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.854939,
+          20.281387
+        ]
+      },
+      "properties": {
+        "name": "Mount Tungaru",
+        "elev": 352,
+        "prom": 352,
+        "coord": "20°16′53″N 121°51′18″E",
+        "prov": [
+          "Batanes"
+        ],
+        "region": [
+          "Region II"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

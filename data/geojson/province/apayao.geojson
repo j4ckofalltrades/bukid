@@ -1,0 +1,303 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.166531,
+          18.166951
+        ]
+      },
+      "properties": {
+        "name": "Mount Asi",
+        "elev": 1224,
+        "prom": 454,
+        "coord": "18°10′1″N 121°9′60″E",
+        "prov": [
+          "Apayao"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.265742,
+          17.925312
+        ]
+      },
+      "properties": {
+        "name": "Mount Bajucan",
+        "elev": 815,
+        "prom": 520,
+        "coord": "17°55′31″N 121°15′57″E",
+        "prov": [
+          "Apayao"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.202752,
+          17.79755
+        ]
+      },
+      "properties": {
+        "name": "Mount Calauag",
+        "elev": 1294,
+        "prom": 356,
+        "coord": "17°47′51″N 121°12′10″E",
+        "prov": [
+          "Apayao"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.004749,
+          18.436381
+        ]
+      },
+      "properties": {
+        "name": "Mount Cataluan",
+        "elev": 1307,
+        "prom": 540,
+        "coord": "18°26′11″N 121°0′17″E",
+        "prov": [
+          "Apayao"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.156424,
+          18.213445
+        ]
+      },
+      "properties": {
+        "name": "Mount Lambayo",
+        "elev": 1375,
+        "prom": 825,
+        "coord": "18°12′48″N 121°9′23″E",
+        "prov": [
+          "Apayao"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.982837,
+          18.166026
+        ]
+      },
+      "properties": {
+        "name": "Mount Licud",
+        "elev": 1803,
+        "prom": 457,
+        "coord": "18°9′58″N 120°58′58″E",
+        "prov": [
+          "Apayao"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.18576,
+          17.650719
+        ]
+      },
+      "properties": {
+        "name": "Mount Lungod",
+        "elev": 1919,
+        "prom": 424,
+        "coord": "17°39′3″N 121°11′9″E",
+        "prov": [
+          "Apayao",
+          "Kalinga"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.232229,
+          18.386851
+        ]
+      },
+      "properties": {
+        "name": "Mount Magalino",
+        "elev": 770,
+        "prom": 420,
+        "coord": "18°23′13″N 121°13′56″E",
+        "prov": [
+          "Apayao"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.210869,
+          18.2909
+        ]
+      },
+      "properties": {
+        "name": "Mount Nanuddalan",
+        "elev": 908,
+        "prom": 442,
+        "coord": "18°17′27″N 121°12′39″E",
+        "prov": [
+          "Apayao"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.219145,
+          18.116683
+        ]
+      },
+      "properties": {
+        "name": "Mount Solu",
+        "elev": 1109,
+        "prom": 343,
+        "coord": "18°7′0″N 121°13′9″E",
+        "prov": [
+          "Apayao"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.161062,
+          17.865002
+        ]
+      },
+      "properties": {
+        "name": "Mount Wayan",
+        "elev": 1145,
+        "prom": 502,
+        "coord": "17°51′54″N 121°9′40″E",
+        "prov": [
+          "Apayao"
+        ],
+        "region": [
+          "CAR"
+        ],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

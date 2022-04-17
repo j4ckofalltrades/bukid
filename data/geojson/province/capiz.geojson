@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.853566,
+          11.261379
+        ]
+      },
+      "properties": {
+        "name": "Mount Agsubay",
+        "elev": 501,
+        "prom": 385,
+        "coord": "11°15′41″N 122°51′13″E",
+        "prov": [
+          "Capiz"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.003058,
+          11.386358
+        ]
+      },
+      "properties": {
+        "name": "Mount Agudo",
+        "elev": 812,
+        "prom": 738,
+        "coord": "11°23′11″N 123°0′11″E",
+        "prov": [
+          "Iloilo",
+          "Capiz"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.332065,
+          11.278596
+        ]
+      },
+      "properties": {
+        "name": "Mount Angas",
+        "elev": 998,
+        "prom": 440,
+        "coord": "11°16′43″N 122°19′55″E",
+        "prov": [
+          "Capiz"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.206067,
+          11.26792
+        ]
+      },
+      "properties": {
+        "name": "Mount Nangtud",
+        "elev": 2073,
+        "prom": 921,
+        "coord": "11°16′5″N 122°12′22″E",
+        "prov": [
+          "Capiz"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.616284,
+          11.274864
+        ]
+      },
+      "properties": {
+        "name": "Mount Panginraon",
+        "elev": 459,
+        "prom": 384,
+        "coord": "11°16′30″N 122°36′59″E",
+        "prov": [
+          "Capiz"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

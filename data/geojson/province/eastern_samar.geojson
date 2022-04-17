@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.291279,
+          11.636228
+        ]
+      },
+      "properties": {
+        "name": "Mount Mactaon",
+        "elev": 683,
+        "prom": 587,
+        "coord": "11°38′10″N 125°17′29″E",
+        "prov": [
+          "Eastern Samar"
+        ],
+        "region": [
+          "Region VIII"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

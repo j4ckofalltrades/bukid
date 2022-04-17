@@ -1,0 +1,113 @@
+{
+  "type": "Topology",
+  "objects": {
+    "mountains": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            121.89217,
+            13.322326
+          ],
+          "properties": {
+            "name": "Mount Catala",
+            "elev": 605,
+            "prom": 338,
+            "coord": "13°19′20″N 121°53′32″E",
+            "prov": [
+              "Marinduque"
+            ],
+            "region": [
+              "Mimaropa"
+            ],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            121.917736,
+            13.35893
+          ],
+          "properties": {
+            "name": "Mount Gasan",
+            "elev": 799,
+            "prom": 421,
+            "coord": "13°21′32″N 121°55′4″E",
+            "prov": [
+              "Marinduque"
+            ],
+            "region": [
+              "Mimaropa"
+            ],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            122.013267,
+            13.241039
+          ],
+          "properties": {
+            "name": "Mount Malindig",
+            "elev": 1167,
+            "prom": 1167,
+            "coord": "13°14′28″N 122°0′48″E",
+            "prov": [
+              "Marinduque"
+            ],
+            "region": [
+              "Mimaropa"
+            ],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            121.988874,
+            13.387738
+          ],
+          "properties": {
+            "name": "Mount San Antonio",
+            "elev": 708,
+            "prom": 366,
+            "coord": "13°23′16″N 121°59′20″E",
+            "prov": [
+              "Marinduque"
+            ],
+            "region": [
+              "Mimaropa"
+            ],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "bbox": [
+    121.89217,
+    13.241039,
+    122.013267,
+    13.387738
+  ]
+}

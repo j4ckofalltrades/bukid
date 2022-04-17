@@ -1,0 +1,331 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.210278,
+          11.473147
+        ]
+      },
+      "properties": {
+        "name": "Calagnaan Mountain",
+        "elev": 323,
+        "prom": 323,
+        "coord": "11°28′23″N 123°12′37″E",
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.371213,
+          11.098968
+        ]
+      },
+      "properties": {
+        "name": "Mount Agdulasan",
+        "elev": 819,
+        "prom": 315,
+        "coord": "11°5′56″N 122°22′16″E",
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.003058,
+          11.386358
+        ]
+      },
+      "properties": {
+        "name": "Mount Agudo",
+        "elev": 812,
+        "prom": 738,
+        "coord": "11°23′11″N 123°0′11″E",
+        "prov": [
+          "Iloilo",
+          "Capiz"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.370349,
+          11.015559
+        ]
+      },
+      "properties": {
+        "name": "Mount Bilbigan",
+        "elev": 797,
+        "prom": 314,
+        "coord": "11°0′56″N 122°22′13″E",
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.088838,
+          11.294056
+        ]
+      },
+      "properties": {
+        "name": "Mount Buraay",
+        "elev": 342,
+        "prom": 326,
+        "coord": "11°17′39″N 123°5′20″E",
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.763504,
+          11.103525
+        ]
+      },
+      "properties": {
+        "name": "Mount Caniapasan",
+        "elev": 583,
+        "prom": 484,
+        "coord": "11°6′13″N 122°45′49″E",
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.117557,
+          10.684857
+        ]
+      },
+      "properties": {
+        "name": "Mount Congcong",
+        "elev": 1046,
+        "prom": 343,
+        "coord": "10°41′5″N 122°7′3″E",
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.957591,
+          11.116963
+        ]
+      },
+      "properties": {
+        "name": "Mount Majanlud",
+        "elev": 456,
+        "prom": 315,
+        "coord": "11°7′1″N 122°57′27″E",
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.124444,
+          11.345833
+        ]
+      },
+      "properties": {
+        "name": "Mount Malpal",
+        "elev": 324,
+        "prom": 320,
+        "coord": "11°20′45″N 123°7′28″E",
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.197872,
+          10.768091
+        ]
+      },
+      "properties": {
+        "name": "Mount Napulak",
+        "elev": 1201,
+        "prom": 328,
+        "coord": "10°46′5″N 122°11′52″E",
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.255293,
+          11.452665
+        ]
+      },
+      "properties": {
+        "name": "Mount Sicogon",
+        "elev": 340,
+        "prom": 340,
+        "coord": "11°27′10″N 123°15′19″E",
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.167884,
+          11.278738
+        ]
+      },
+      "properties": {
+        "name": "Pan De Azucar",
+        "elev": 572,
+        "prom": 572,
+        "coord": "11°16′43″N 123°10′4″E",
+        "is_volc": true,
+        "prov": [
+          "Iloilo"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

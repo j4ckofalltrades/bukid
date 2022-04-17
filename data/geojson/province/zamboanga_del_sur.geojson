@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.283769,
+          7.852243
+        ]
+      },
+      "properties": {
+        "name": "Bigong",
+        "elev": 770,
+        "prom": 449,
+        "coord": "7°51′8″N 123°17′2″E",
+        "is_volc": true,
+        "prov": [
+          "Zamboanga del Sur"
+        ],
+        "region": [
+          "Region IX"
+        ],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.237412,
+          7.685619
+        ]
+      },
+      "properties": {
+        "name": "Mount Imbing",
+        "elev": 721,
+        "prom": 430,
+        "coord": "7°41′8″N 123°14′15″E",
+        "prov": [
+          "Zamboanga del Sur"
+        ],
+        "region": [
+          "Region IX"
+        ],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.268918,
+          7.329667
+        ]
+      },
+      "properties": {
+        "name": "Mount Maria",
+        "elev": 484,
+        "prom": 350,
+        "coord": "7°19′47″N 122°16′8″E",
+        "prov": [
+          "Zamboanga del Sur"
+        ],
+        "region": [
+          "Region IX"
+        ],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.229586,
+          7.974305
+        ]
+      },
+      "properties": {
+        "name": "Mount Pinukis",
+        "elev": 1532,
+        "prom": 1218,
+        "coord": "7°58′27″N 123°13′47″E",
+        "is_volc": true,
+        "prov": [
+          "Zamboanga del Sur"
+        ],
+        "region": [
+          "Region IX"
+        ],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.258186,
+          7.995185
+        ]
+      },
+      "properties": {
+        "name": "Mount Sugarloaf",
+        "elev": 1432,
+        "prom": 472,
+        "coord": "7°59′43″N 123°15′29″E",
+        "prov": [
+          "Zamboanga del Sur"
+        ],
+        "region": [
+          "Region IX"
+        ],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.254625,
+          7.435092
+        ]
+      },
+      "properties": {
+        "name": "Sharp Peak",
+        "elev": 684,
+        "prom": 445,
+        "coord": "7°26′6″N 122°15′17″E",
+        "prov": [
+          "Zamboanga del Sur"
+        ],
+        "region": [
+          "Region IX"
+        ],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.25,
+          8
+        ]
+      },
+      "properties": {
+        "name": "Sugarloaf Complex",
+        "elev": 1432,
+        "prom": 567,
+        "coord": "8°0′0″N 123°15′0″E",
+        "is_volc": true,
+        "prov": [
+          "Zamboanga del Sur"
+        ],
+        "region": [
+          "Region IX"
+        ],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "type": "Topology",
+  "objects": {
+    "mountains": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            125.68379,
+            9.880568
+          ],
+          "properties": {
+            "name": "Mount Gabo",
+            "elev": 535,
+            "prom": 497,
+            "coord": "9°52′50″N 125°41′2″E",
+            "prov": [
+              "Dinagat Islands"
+            ],
+            "region": [
+              "Region XIII"
+            ],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            125.638207,
+            10.202557
+          ],
+          "properties": {
+            "name": "Mount Pelhi",
+            "elev": 767,
+            "prom": 715,
+            "coord": "10°12′9″N 125°38′18″E",
+            "prov": [
+              "Dinagat Islands"
+            ],
+            "region": [
+              "Region XIII"
+            ],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            125.641141,
+            10.351671
+          ],
+          "properties": {
+            "name": "Mount Redondo",
+            "elev": 939,
+            "prom": 939,
+            "coord": "10°21′6″N 125°38′28″E",
+            "prov": [
+              "Dinagat Islands"
+            ],
+            "region": [
+              "Region XIII"
+            ],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            125.638395,
+            10.137835
+          ],
+          "properties": {
+            "name": "Mount Tristan",
+            "elev": 625,
+            "prom": 604,
+            "coord": "10°8′16″N 125°38′18″E",
+            "prov": [
+              "Dinagat Islands"
+            ],
+            "region": [
+              "Region XIII"
+            ],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "bbox": [
+    125.638207,
+    9.880568,
+    125.68379,
+    10.351671
+  ]
+}

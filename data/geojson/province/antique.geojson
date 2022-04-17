@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.228894,
+          11.079473
+        ]
+      },
+      "properties": {
+        "name": "Mount Anoy",
+        "elev": 1069,
+        "prom": 455,
+        "coord": "11°4′46″N 122°13′44″E",
+        "prov": [
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.205643,
+          11.174585
+        ]
+      },
+      "properties": {
+        "name": "Mount Balabag",
+        "elev": 1713,
+        "prom": 306,
+        "coord": "11°10′29″N 122°12′20″E",
+        "prov": [
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.252968,
+          11.146171
+        ]
+      },
+      "properties": {
+        "name": "Mount Baloy",
+        "elev": 1932,
+        "prom": 572,
+        "coord": "11°8′46″N 122°15′11″E",
+        "prov": [
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.30666,
+          11.047866
+        ]
+      },
+      "properties": {
+        "name": "Mount Igbanig",
+        "elev": 1466,
+        "prom": 568,
+        "coord": "11°2′52″N 122°18′24″E",
+        "prov": [
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.106559,
+          11.053872
+        ]
+      },
+      "properties": {
+        "name": "Mount Intigban",
+        "elev": 578,
+        "prom": 465,
+        "coord": "11°3′14″N 122°6′24″E",
+        "prov": [
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.161977,
+          11.389253
+        ]
+      },
+      "properties": {
+        "name": "Mount Madja-as",
+        "elev": 2102,
+        "prom": 2102,
+        "coord": "11°23′21″N 122°9′43″E",
+        "is_volc": false,
+        "prov": [
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.934631,
+          10.463449
+        ]
+      },
+      "properties": {
+        "name": "Mount Palulian",
+        "elev": 404,
+        "prom": 317,
+        "coord": "10°27′48″N 121°56′5″E",
+        "prov": [
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.116897,
+          10.969044
+        ]
+      },
+      "properties": {
+        "name": "Mount Tigancal",
+        "elev": 861,
+        "prom": 315,
+        "coord": "10°58′9″N 122°7′1″E",
+        "prov": [
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.229911,
+          10.872613
+        ]
+      },
+      "properties": {
+        "name": "Mount Tiguran",
+        "elev": 1377,
+        "prom": 315,
+        "coord": "10°52′21″N 122°13′48″E",
+        "prov": [
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.993126,
+          11.824444
+        ]
+      },
+      "properties": {
+        "name": "Mount Tinayunga",
+        "elev": 915,
+        "prom": 855,
+        "coord": "11°49′28″N 121°59′35″E",
+        "prov": [
+          "Aklan",
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.041047,
+          10.893642
+        ]
+      },
+      "properties": {
+        "name": "Mount Yabangan",
+        "elev": 497,
+        "prom": 362,
+        "coord": "10°53′37″N 122°2′28″E",
+        "prov": [
+          "Antique"
+        ],
+        "region": [
+          "Region VI"
+        ],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}
