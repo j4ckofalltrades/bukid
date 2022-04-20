@@ -1,1 +1,629 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[124.422861,11.973578]},"properties":{"name":"Camandag","elev":432,"prom":432,"coord":"11°58′25″N 124°25′22″E","is_volc":true,"prov":["Samar"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.742503,11.103821]},"properties":{"name":"Mount Aminduen (Alto Peak)","elev":1325,"prom":1325,"coord":"11°6′14″N 124°44′33″E","prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.07054,10.362341]},"properties":{"name":"Mount Bitanjuan","elev":965,"prom":819,"coord":"10°21′44″N 125°4′14″E","prov":["Southern Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.160814,12.437054]},"properties":{"name":"Mount Boboyaon","elev":465,"prom":385,"coord":"12°26′13″N 125°9′39″E","prov":["Northern Samar"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.832289,11.399307]},"properties":{"name":"Mount Busay","elev":476,"prom":456,"coord":"11°23′58″N 124°49′56″E","prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.217911,10.276413]},"properties":{"name":"Mount Cabalian","elev":945,"prom":806,"coord":"10°16′35″N 125°13′4″E","is_volc":true,"prov":["Southern Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.520899,11.616893]},"properties":{"name":"Mount Camalobagoan","elev":1124,"prom":443,"coord":"11°37′1″N 124°31′15″E","is_volc":true,"prov":["Biliran"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.859578,11.641525]},"properties":{"name":"Mount Campundoy","elev":354,"prom":354,"coord":"11°38′29″N 124°51′34″E","prov":["Samar"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.935405,12.152784]},"properties":{"name":"Mount Capotoan","elev":850,"prom":628,"coord":"12°9′10″N 124°56′7″E","prov":["Samar"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.887574,10.881415]},"properties":{"name":"Mount Gumdalitan","elev":865,"prom":396,"coord":"10°52′53″N 124°53′15″E","prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.114952,10.586127]},"properties":{"name":"Mount Hingatungan","elev":745,"prom":386,"coord":"10°35′10″N 125°6′54″E","prov":["Leyte","Southern Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.052187,12.066282]},"properties":{"name":"Mount Huraw","elev":890,"prom":890,"coord":"12°3′59″N 125°3′8″E","prov":["Samar"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.533889,11.521634]},"properties":{"name":"Mount Lauaan","elev":1172,"prom":346,"coord":"11°31′18″N 124°32′2″E","prov":["Biliran"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.947858,10.452984]},"properties":{"name":"Mount Llave","elev":950,"prom":507,"coord":"10°27′11″N 124°56′52″E","prov":["Southern Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.812223,11.012303]},"properties":{"name":"Mount Lobi","elev":1319,"prom":710,"coord":"11°0′44″N 124°48′44″E","is_volc":true,"prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.915284,10.254249]},"properties":{"name":"Mount Lunas","elev":695,"prom":556,"coord":"10°15′15″N 124°54′55″E","prov":["Southern Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.291279,11.636228]},"properties":{"name":"Mount Mactaon","elev":683,"prom":587,"coord":"11°38′10″N 125°17′29″E","prov":["Eastern Samar"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.493418,10.954149]},"properties":{"name":"Mount Magsanga","elev":572,"prom":500,"coord":"10°57′15″N 124°29′36″E","prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.864739,10.880286]},"properties":{"name":"Mount Mahagnao","elev":860,"prom":318,"coord":"10°52′49″N 124°51′53″E","is_volc":true,"prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.461877,11.649668]},"properties":{"name":"Mount Maliwatan","elev":1346,"prom":1346,"coord":"11°38′59″N 124°27′43″E","is_volc":true,"prov":["Biliran"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.319029,11.789327]},"properties":{"name":"Mount Maripipi","elev":924,"prom":924,"coord":"11°47′22″N 124°19′9″E","is_volc":true,"prov":["Biliran"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.876625,10.865036]},"properties":{"name":"Mount Naburac","elev":864,"prom":386,"coord":"10°51′54″N 124°52′36″E","prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.269452,9.932236]},"properties":{"name":"Mount Nelangcapan","elev":698,"prom":697,"coord":"9°55′56″N 125°16′10″E","is_volc":true,"prov":["Southern Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.302299,11.912483]},"properties":{"name":"Mount Opao","elev":553,"prom":553,"coord":"11°54′45″N 124°18′8″E","prov":["Samar"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.394152,11.668178]},"properties":{"name":"Mount Panamao","elev":1077,"prom":683,"coord":"11°40′5″N 124°23′39″E","is_volc":true,"prov":["Biliran"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.839505,10.759721]},"properties":{"name":"Mount Pangasugan","elev":1150,"prom":403,"coord":"10°45′35″N 124°50′22″E","prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.382393,12.358406]},"properties":{"name":"Mount Saamong","elev":513,"prom":401,"coord":"12°21′30″N 124°22′57″E","prov":["Northern Samar"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.804815,10.532248]},"properties":{"name":"Mount Sacripante","elev":924,"prom":524,"coord":"10°31′56″N 124°48′17″E","prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.434644,11.906818]},"properties":{"name":"Mount Santo Niño","elev":465,"prom":465,"coord":"11°54′25″N 124°26′5″E","prov":["Samar"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.583459,11.524163]},"properties":{"name":"Mount Sayao","elev":1266,"prom":370,"coord":"11°31′27″N 124°35′0″E","is_volc":true,"prov":["Biliran"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.573751,11.529271]},"properties":{"name":"Mount Suiro","elev":1301,"prom":873,"coord":"11°31′45″N 124°34′26″E","prov":["Biliran"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.871312,10.772726]},"properties":{"name":"Mount Tabaan","elev":1170,"prom":558,"coord":"10°46′22″N 124°52′17″E","prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.80634,10.828617]},"properties":{"name":"Mount Tinagan","elev":1139,"prom":349,"coord":"10°49′43″N 124°48′23″E","prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.3,11.416667]},"properties":{"name":"Opow","elev":553,"prom":553,"coord":"11°25′0″N 124°17′60″E","is_volc":true,"prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.515902,11.427675]},"properties":{"name":"Pacdahauan Peak","elev":616,"prom":447,"coord":"11°25′40″N 124°30′57″E","prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[124.732804,11.115035]},"properties":{"name":"Proto-labi","elev":1120,"prom":479,"coord":"11°6′54″N 124°43′58″E","is_volc":true,"prov":["Leyte"],"region":["Region VIII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.422861, 11.973578] },
+      "properties": {
+        "name": "Camandag",
+        "elev": 432,
+        "prom": 432,
+        "coord": "11°58′25″N 124°25′22″E",
+        "is_volc": true,
+        "prov": ["Samar"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.742503, 11.103821] },
+      "properties": {
+        "name": "Mount Aminduen (Alto Peak)",
+        "elev": 1325,
+        "prom": 1325,
+        "coord": "11°6′14″N 124°44′33″E",
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.07054, 10.362341] },
+      "properties": {
+        "name": "Mount Bitanjuan",
+        "elev": 965,
+        "prom": 819,
+        "coord": "10°21′44″N 125°4′14″E",
+        "prov": ["Southern Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.160814, 12.437054] },
+      "properties": {
+        "name": "Mount Boboyaon",
+        "elev": 465,
+        "prom": 385,
+        "coord": "12°26′13″N 125°9′39″E",
+        "prov": ["Northern Samar"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.832289, 11.399307] },
+      "properties": {
+        "name": "Mount Busay",
+        "elev": 476,
+        "prom": 456,
+        "coord": "11°23′58″N 124°49′56″E",
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.217911, 10.276413] },
+      "properties": {
+        "name": "Mount Cabalian",
+        "elev": 945,
+        "prom": 806,
+        "coord": "10°16′35″N 125°13′4″E",
+        "is_volc": true,
+        "prov": ["Southern Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.520899, 11.616893] },
+      "properties": {
+        "name": "Mount Camalobagoan",
+        "elev": 1124,
+        "prom": 443,
+        "coord": "11°37′1″N 124°31′15″E",
+        "is_volc": true,
+        "prov": ["Biliran"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.859578, 11.641525] },
+      "properties": {
+        "name": "Mount Campundoy",
+        "elev": 354,
+        "prom": 354,
+        "coord": "11°38′29″N 124°51′34″E",
+        "prov": ["Samar"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.935405, 12.152784] },
+      "properties": {
+        "name": "Mount Capotoan",
+        "elev": 850,
+        "prom": 628,
+        "coord": "12°9′10″N 124°56′7″E",
+        "prov": ["Samar"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.887574, 10.881415] },
+      "properties": {
+        "name": "Mount Gumdalitan",
+        "elev": 865,
+        "prom": 396,
+        "coord": "10°52′53″N 124°53′15″E",
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.114952, 10.586127] },
+      "properties": {
+        "name": "Mount Hingatungan",
+        "elev": 745,
+        "prom": 386,
+        "coord": "10°35′10″N 125°6′54″E",
+        "prov": ["Leyte", "Southern Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.052187, 12.066282] },
+      "properties": {
+        "name": "Mount Huraw",
+        "elev": 890,
+        "prom": 890,
+        "coord": "12°3′59″N 125°3′8″E",
+        "prov": ["Samar"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.533889, 11.521634] },
+      "properties": {
+        "name": "Mount Lauaan",
+        "elev": 1172,
+        "prom": 346,
+        "coord": "11°31′18″N 124°32′2″E",
+        "prov": ["Biliran"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.947858, 10.452984] },
+      "properties": {
+        "name": "Mount Llave",
+        "elev": 950,
+        "prom": 507,
+        "coord": "10°27′11″N 124°56′52″E",
+        "prov": ["Southern Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.812223, 11.012303] },
+      "properties": {
+        "name": "Mount Lobi",
+        "elev": 1319,
+        "prom": 710,
+        "coord": "11°0′44″N 124°48′44″E",
+        "is_volc": true,
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.915284, 10.254249] },
+      "properties": {
+        "name": "Mount Lunas",
+        "elev": 695,
+        "prom": 556,
+        "coord": "10°15′15″N 124°54′55″E",
+        "prov": ["Southern Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.291279, 11.636228] },
+      "properties": {
+        "name": "Mount Mactaon",
+        "elev": 683,
+        "prom": 587,
+        "coord": "11°38′10″N 125°17′29″E",
+        "prov": ["Eastern Samar"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.493418, 10.954149] },
+      "properties": {
+        "name": "Mount Magsanga",
+        "elev": 572,
+        "prom": 500,
+        "coord": "10°57′15″N 124°29′36″E",
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.864739, 10.880286] },
+      "properties": {
+        "name": "Mount Mahagnao",
+        "elev": 860,
+        "prom": 318,
+        "coord": "10°52′49″N 124°51′53″E",
+        "is_volc": true,
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.461877, 11.649668] },
+      "properties": {
+        "name": "Mount Maliwatan",
+        "elev": 1346,
+        "prom": 1346,
+        "coord": "11°38′59″N 124°27′43″E",
+        "is_volc": true,
+        "prov": ["Biliran"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.319029, 11.789327] },
+      "properties": {
+        "name": "Mount Maripipi",
+        "elev": 924,
+        "prom": 924,
+        "coord": "11°47′22″N 124°19′9″E",
+        "is_volc": true,
+        "prov": ["Biliran"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.876625, 10.865036] },
+      "properties": {
+        "name": "Mount Naburac",
+        "elev": 864,
+        "prom": 386,
+        "coord": "10°51′54″N 124°52′36″E",
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.269452, 9.932236] },
+      "properties": {
+        "name": "Mount Nelangcapan",
+        "elev": 698,
+        "prom": 697,
+        "coord": "9°55′56″N 125°16′10″E",
+        "is_volc": true,
+        "prov": ["Southern Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.302299, 11.912483] },
+      "properties": {
+        "name": "Mount Opao",
+        "elev": 553,
+        "prom": 553,
+        "coord": "11°54′45″N 124°18′8″E",
+        "prov": ["Samar"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.394152, 11.668178] },
+      "properties": {
+        "name": "Mount Panamao",
+        "elev": 1077,
+        "prom": 683,
+        "coord": "11°40′5″N 124°23′39″E",
+        "is_volc": true,
+        "prov": ["Biliran"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.839505, 10.759721] },
+      "properties": {
+        "name": "Mount Pangasugan",
+        "elev": 1150,
+        "prom": 403,
+        "coord": "10°45′35″N 124°50′22″E",
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.382393, 12.358406] },
+      "properties": {
+        "name": "Mount Saamong",
+        "elev": 513,
+        "prom": 401,
+        "coord": "12°21′30″N 124°22′57″E",
+        "prov": ["Northern Samar"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.804815, 10.532248] },
+      "properties": {
+        "name": "Mount Sacripante",
+        "elev": 924,
+        "prom": 524,
+        "coord": "10°31′56″N 124°48′17″E",
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.434644, 11.906818] },
+      "properties": {
+        "name": "Mount Santo Niño",
+        "elev": 465,
+        "prom": 465,
+        "coord": "11°54′25″N 124°26′5″E",
+        "prov": ["Samar"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.583459, 11.524163] },
+      "properties": {
+        "name": "Mount Sayao",
+        "elev": 1266,
+        "prom": 370,
+        "coord": "11°31′27″N 124°35′0″E",
+        "is_volc": true,
+        "prov": ["Biliran"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.573751, 11.529271] },
+      "properties": {
+        "name": "Mount Suiro",
+        "elev": 1301,
+        "prom": 873,
+        "coord": "11°31′45″N 124°34′26″E",
+        "prov": ["Biliran"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.871312, 10.772726] },
+      "properties": {
+        "name": "Mount Tabaan",
+        "elev": 1170,
+        "prom": 558,
+        "coord": "10°46′22″N 124°52′17″E",
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.80634, 10.828617] },
+      "properties": {
+        "name": "Mount Tinagan",
+        "elev": 1139,
+        "prom": 349,
+        "coord": "10°49′43″N 124°48′23″E",
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.3, 11.416667] },
+      "properties": {
+        "name": "Opow",
+        "elev": 553,
+        "prom": 553,
+        "coord": "11°25′0″N 124°17′60″E",
+        "is_volc": true,
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.515902, 11.427675] },
+      "properties": {
+        "name": "Pacdahauan Peak",
+        "elev": 616,
+        "prom": 447,
+        "coord": "11°25′40″N 124°30′57″E",
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [124.732804, 11.115035] },
+      "properties": {
+        "name": "Proto-labi",
+        "elev": 1120,
+        "prom": 479,
+        "coord": "11°6′54″N 124°43′58″E",
+        "is_volc": true,
+        "prov": ["Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

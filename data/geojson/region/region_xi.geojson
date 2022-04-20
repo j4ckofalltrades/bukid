@@ -1,1 +1,519 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[125.465848,6.586098]},"properties":{"name":"Bagnusan Hill","elev":318,"prom":307,"coord":"6°35′10″N 125°27′57″E","prov":["Davao Occidental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.409816,7.366605]},"properties":{"name":"Malapangi Peak","elev":1131,"prom":462,"coord":"7°21′60″N 125°24′35″E","prov":["Davao del Sur"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.20361,7.79753]},"properties":{"name":"Mount Agtuuganon","elev":1660,"prom":1195,"coord":"7°47′51″N 126°12′13″E","prov":["Davao Oriental","Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.673078,7.877959]},"properties":{"name":"Mount Ampawid","elev":844,"prom":567,"coord":"7°52′41″N 125°40′23″E","prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.270832,6.987199]},"properties":{"name":"Mount Apo","elev":2954,"prom":2954,"coord":"6°59′14″N 125°16′15″E","is_volc":true,"prov":["Davao del Sur","Cotabato"],"region":["Region XI","Region XII"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.376015,5.397577]},"properties":{"name":"Mount Balut","elev":841,"prom":841,"coord":"5°23′51″N 125°22′34″E","is_volc":true,"prov":["Davao Occidental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.103246,6.565615]},"properties":{"name":"Mount Bilbogan","elev":741,"prom":478,"coord":"6°33′56″N 126°6′12″E","prov":["Davao Oriental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.195902,7.295572]},"properties":{"name":"Mount Candalaga","elev":2268,"prom":872,"coord":"7°17′44″N 126°11′45″E","prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.130976,6.837187]},"properties":{"name":"Mount Cape","elev":664,"prom":308,"coord":"6°50′14″N 126°7′52″E","prov":["Davao Oriental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.1819,6.739791]},"properties":{"name":"Mount Hamiguitan","elev":1620,"prom":1497,"coord":"6°44′23″N 126°10′55″E","is_volc":false,"prov":["Davao Oriental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.18115,6.445179]},"properties":{"name":"Mount Kabunulan","elev":935,"prom":416,"coord":"6°26′43″N 126°10′52″E","prov":["Davao Oriental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.280045,7.309399]},"properties":{"name":"Mount Kampalili","elev":2340,"prom":986,"coord":"7°18′34″N 126°16′48″E","prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.184602,6.5895]},"properties":{"name":"Mount Kapok","elev":1166,"prom":408,"coord":"6°35′22″N 126°11′5″E","prov":["Davao Oriental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.508999,6.207721]},"properties":{"name":"Mount Latian","elev":1623,"prom":1448,"coord":"6°12′28″N 125°30′32″E","prov":["Davao Occidental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.498923,5.821679]},"properties":{"name":"Mount Macaayao","elev":1428,"prom":498,"coord":"5°49′18″N 125°29′56″E","prov":["Davao Occidental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.202356,7.256099]},"properties":{"name":"Mount Maitum","elev":2267,"prom":409,"coord":"7°15′22″N 126°12′8″E","prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.179822,6.500322]},"properties":{"name":"Mount Mansamuga","elev":1005,"prom":311,"coord":"6°30′1″N 126°10′47″E","prov":["Davao Oriental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.505462,7.665958]},"properties":{"name":"Mount Masimalon","elev":1115,"prom":442,"coord":"7°39′57″N 125°30′20″E","prov":["Davao del Norte"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.310634,7.099487]},"properties":{"name":"Mount Mayo","elev":1727,"prom":366,"coord":"7°5′58″N 126°18′38″E","prov":["Davao Oriental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.485216,6.557626]},"properties":{"name":"Mount Monkiaua","elev":442,"prom":412,"coord":"6°33′27″N 125°29′7″E","prov":["Davao Occidental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.953772,7.89136]},"properties":{"name":"Mount Olagusan","elev":605,"prom":465,"coord":"7°53′29″N 125°57′14″E","prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.348071,6.541396]},"properties":{"name":"Mount Pagyasgas","elev":772,"prom":415,"coord":"6°32′29″N 125°20′53″E","prov":["Davao del Sur"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.635602,6.280683]},"properties":{"name":"Mount Patulangon","elev":669,"prom":334,"coord":"6°16′50″N 125°38′8″E","prov":["Davao Occidental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.227721,7.36793]},"properties":{"name":"Mount Sinaka","elev":1471,"prom":572,"coord":"7°22′5″N 125°13′40″E","prov":["Davao del Sur"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.598593,6.366559]},"properties":{"name":"Mount Tabacanon","elev":668,"prom":455,"coord":"6°21′60″N 125°35′55″E","prov":["Davao Occidental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[126.226167,7.445169]},"properties":{"name":"Mount Tagubud","elev":2650,"prom":2553,"coord":"7°26′43″N 126°13′34″E","is_volc":false,"prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.610885,6.320989]},"properties":{"name":"Mount Tala","elev":567,"prom":344,"coord":"6°19′16″N 125°36′39″E","prov":["Davao Occidental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.303033,6.898924]},"properties":{"name":"Mount Tampurong","elev":1682,"prom":347,"coord":"6°53′56″N 125°18′11″E","prov":["Davao del Sur"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.494245,5.954272]},"properties":{"name":"Mount Tudul","elev":1607,"prom":713,"coord":"5°57′15″N 125°29′39″E","prov":["Davao Occidental"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[125.76785,7.065863]},"properties":{"name":"Puting-Bato","elev":535,"prom":535,"coord":"7°3′57″N 125°46′4″E","prov":["Davao del Norte"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.465848, 6.586098] },
+      "properties": {
+        "name": "Bagnusan Hill",
+        "elev": 318,
+        "prom": 307,
+        "coord": "6°35′10″N 125°27′57″E",
+        "prov": ["Davao Occidental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.409816, 7.366605] },
+      "properties": {
+        "name": "Malapangi Peak",
+        "elev": 1131,
+        "prom": 462,
+        "coord": "7°21′60″N 125°24′35″E",
+        "prov": ["Davao del Sur"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.20361, 7.79753] },
+      "properties": {
+        "name": "Mount Agtuuganon",
+        "elev": 1660,
+        "prom": 1195,
+        "coord": "7°47′51″N 126°12′13″E",
+        "prov": ["Davao Oriental", "Davao de Oro"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.673078, 7.877959] },
+      "properties": {
+        "name": "Mount Ampawid",
+        "elev": 844,
+        "prom": 567,
+        "coord": "7°52′41″N 125°40′23″E",
+        "prov": ["Davao de Oro"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.270832, 6.987199] },
+      "properties": {
+        "name": "Mount Apo",
+        "elev": 2954,
+        "prom": 2954,
+        "coord": "6°59′14″N 125°16′15″E",
+        "is_volc": true,
+        "prov": ["Davao del Sur", "Cotabato"],
+        "region": ["Region XI", "Region XII"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.376015, 5.397577] },
+      "properties": {
+        "name": "Mount Balut",
+        "elev": 841,
+        "prom": 841,
+        "coord": "5°23′51″N 125°22′34″E",
+        "is_volc": true,
+        "prov": ["Davao Occidental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.103246, 6.565615] },
+      "properties": {
+        "name": "Mount Bilbogan",
+        "elev": 741,
+        "prom": 478,
+        "coord": "6°33′56″N 126°6′12″E",
+        "prov": ["Davao Oriental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.195902, 7.295572] },
+      "properties": {
+        "name": "Mount Candalaga",
+        "elev": 2268,
+        "prom": 872,
+        "coord": "7°17′44″N 126°11′45″E",
+        "prov": ["Davao de Oro"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.130976, 6.837187] },
+      "properties": {
+        "name": "Mount Cape",
+        "elev": 664,
+        "prom": 308,
+        "coord": "6°50′14″N 126°7′52″E",
+        "prov": ["Davao Oriental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.1819, 6.739791] },
+      "properties": {
+        "name": "Mount Hamiguitan",
+        "elev": 1620,
+        "prom": 1497,
+        "coord": "6°44′23″N 126°10′55″E",
+        "is_volc": false,
+        "prov": ["Davao Oriental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.18115, 6.445179] },
+      "properties": {
+        "name": "Mount Kabunulan",
+        "elev": 935,
+        "prom": 416,
+        "coord": "6°26′43″N 126°10′52″E",
+        "prov": ["Davao Oriental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.280045, 7.309399] },
+      "properties": {
+        "name": "Mount Kampalili",
+        "elev": 2340,
+        "prom": 986,
+        "coord": "7°18′34″N 126°16′48″E",
+        "prov": ["Davao de Oro"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.184602, 6.5895] },
+      "properties": {
+        "name": "Mount Kapok",
+        "elev": 1166,
+        "prom": 408,
+        "coord": "6°35′22″N 126°11′5″E",
+        "prov": ["Davao Oriental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.508999, 6.207721] },
+      "properties": {
+        "name": "Mount Latian",
+        "elev": 1623,
+        "prom": 1448,
+        "coord": "6°12′28″N 125°30′32″E",
+        "prov": ["Davao Occidental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.498923, 5.821679] },
+      "properties": {
+        "name": "Mount Macaayao",
+        "elev": 1428,
+        "prom": 498,
+        "coord": "5°49′18″N 125°29′56″E",
+        "prov": ["Davao Occidental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.202356, 7.256099] },
+      "properties": {
+        "name": "Mount Maitum",
+        "elev": 2267,
+        "prom": 409,
+        "coord": "7°15′22″N 126°12′8″E",
+        "prov": ["Davao de Oro"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.179822, 6.500322] },
+      "properties": {
+        "name": "Mount Mansamuga",
+        "elev": 1005,
+        "prom": 311,
+        "coord": "6°30′1″N 126°10′47″E",
+        "prov": ["Davao Oriental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.505462, 7.665958] },
+      "properties": {
+        "name": "Mount Masimalon",
+        "elev": 1115,
+        "prom": 442,
+        "coord": "7°39′57″N 125°30′20″E",
+        "prov": ["Davao del Norte"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.310634, 7.099487] },
+      "properties": {
+        "name": "Mount Mayo",
+        "elev": 1727,
+        "prom": 366,
+        "coord": "7°5′58″N 126°18′38″E",
+        "prov": ["Davao Oriental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.485216, 6.557626] },
+      "properties": {
+        "name": "Mount Monkiaua",
+        "elev": 442,
+        "prom": 412,
+        "coord": "6°33′27″N 125°29′7″E",
+        "prov": ["Davao Occidental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.953772, 7.89136] },
+      "properties": {
+        "name": "Mount Olagusan",
+        "elev": 605,
+        "prom": 465,
+        "coord": "7°53′29″N 125°57′14″E",
+        "prov": ["Davao de Oro"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.348071, 6.541396] },
+      "properties": {
+        "name": "Mount Pagyasgas",
+        "elev": 772,
+        "prom": 415,
+        "coord": "6°32′29″N 125°20′53″E",
+        "prov": ["Davao del Sur"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.635602, 6.280683] },
+      "properties": {
+        "name": "Mount Patulangon",
+        "elev": 669,
+        "prom": 334,
+        "coord": "6°16′50″N 125°38′8″E",
+        "prov": ["Davao Occidental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.227721, 7.36793] },
+      "properties": {
+        "name": "Mount Sinaka",
+        "elev": 1471,
+        "prom": 572,
+        "coord": "7°22′5″N 125°13′40″E",
+        "prov": ["Davao del Sur"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.598593, 6.366559] },
+      "properties": {
+        "name": "Mount Tabacanon",
+        "elev": 668,
+        "prom": 455,
+        "coord": "6°21′60″N 125°35′55″E",
+        "prov": ["Davao Occidental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.226167, 7.445169] },
+      "properties": {
+        "name": "Mount Tagubud",
+        "elev": 2650,
+        "prom": 2553,
+        "coord": "7°26′43″N 126°13′34″E",
+        "is_volc": false,
+        "prov": ["Davao de Oro"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.610885, 6.320989] },
+      "properties": {
+        "name": "Mount Tala",
+        "elev": 567,
+        "prom": 344,
+        "coord": "6°19′16″N 125°36′39″E",
+        "prov": ["Davao Occidental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.303033, 6.898924] },
+      "properties": {
+        "name": "Mount Tampurong",
+        "elev": 1682,
+        "prom": 347,
+        "coord": "6°53′56″N 125°18′11″E",
+        "prov": ["Davao del Sur"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.494245, 5.954272] },
+      "properties": {
+        "name": "Mount Tudul",
+        "elev": 1607,
+        "prom": 713,
+        "coord": "5°57′15″N 125°29′39″E",
+        "prov": ["Davao Occidental"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.76785, 7.065863] },
+      "properties": {
+        "name": "Puting-Bato",
+        "elev": 535,
+        "prom": 535,
+        "coord": "7°3′57″N 125°46′4″E",
+        "prov": ["Davao del Norte"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}
