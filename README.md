@@ -18,9 +18,9 @@
 
 # About
 
-> bukid - Capiznon word for mountain.
+> búkid - Capiznon word for mountain.
 
-The entire dataset is available under the [data](./data) directory, as well as the following subsets:
+The entire dataset is available under the [data](./data) directory, including the following subsets:
 
 - by Island Group e.g. Luzon, Visayas, Mindanao
 - by Region e.g. CAR, Region VI, etc.
@@ -143,22 +143,7 @@ GeoJSON and TopoJSON data for Mount Apo.
     }
   },
   "arcs": [],
-  "transform": {
-    "scale": [
-      0.0009258424842484244,
-      0.001568632763276328
-    ],
-    "translate": [
-      117.053135,
-      5.018302
-    ]
-  },
-  "bbox": [
-    117.053135,
-    5.018302,
-    126.310634,
-    20.703061
-  ]
+  "bbox": [125.227721, 6.541396, 125.409816, 7.36793]
 }
 ```
 
@@ -191,11 +176,7 @@ GeoJSON and TopoJSON data for Mount Apo.
     }
   },
   "arcs": [],
-  "transform": {
-    "scale": [0.0009258424842484244, 0.001568632763276328],
-    "translate": [117.053135, 5.018302]
-  },
-  "bbox": [117.053135, 5.018302, 126.310634, 20.703061]
+  "bbox": [125.227721, 6.541396, 125.409816, 7.36793]
 }
 ```
 
