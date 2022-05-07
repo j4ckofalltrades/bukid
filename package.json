@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "GeoJSON and TopoJSON data for PH mountains.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
     "@mapbox/togeojson": "^0.16.0",
     "@types/geojson": "7946.0.8",
     "@types/topojson": "^3.2.3",
+    "husky": "^7.0.4",
     "lint-staged": "^12.4.1",
     "prettier": "^2.6.2",
     "topojson-server": "^3.0.1",
@@ -32,8 +34,6 @@
     "singleQuote": false
   },
   "lint-staged": {
-    "*.{geojson, topojson}": [
-      "prettier --write data"
-    ]
+    "*.{geojson,topojson}": "prettier --write data"
   }
 }

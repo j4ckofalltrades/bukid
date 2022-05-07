@@ -1,1 +1,80 @@
-{"type":"Topology","objects":{"mountains":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[123.907051,10.591372],"properties":{"name":"Mago Peak","elev":757,"prom":464,"coord":"10°35′29″N 123°54′25″E","prov":["Cebu"],"region":["Region VII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[123.815107,10.453041],"properties":{"name":"Mount Manunggal","elev":982,"prom":824,"coord":"10°27′11″N 123°48′54″E","prov":["Cebu"],"region":["Region VII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[124.445715,10.654471],"properties":{"name":"Mount Three Peaks","elev":378,"prom":378,"coord":"10°39′16″N 124°26′45″E","prov":["Cebu"],"region":["Region VII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[123.443787,9.822563],"properties":{"name":"Rocking Peak","elev":1015,"prom":1015,"coord":"9°49′21″N 123°26′38″E","prov":["Cebu"],"region":["Region VII"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}},"arcs":[],"bbox":[123.443787,9.822563,124.445715,10.654471]}
+{
+  "type": "Topology",
+  "objects": {
+    "mountains": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [123.907051, 10.591372],
+          "properties": {
+            "name": "Mago Peak",
+            "elev": 757,
+            "prom": 464,
+            "coord": "10°35′29″N 123°54′25″E",
+            "prov": ["Cebu"],
+            "region": ["Region VII"],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [123.815107, 10.453041],
+          "properties": {
+            "name": "Mount Manunggal",
+            "elev": 982,
+            "prom": 824,
+            "coord": "10°27′11″N 123°48′54″E",
+            "prov": ["Cebu"],
+            "region": ["Region VII"],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [124.445715, 10.654471],
+          "properties": {
+            "name": "Mount Three Peaks",
+            "elev": 378,
+            "prom": 378,
+            "coord": "10°39′16″N 124°26′45″E",
+            "prov": ["Cebu"],
+            "region": ["Region VII"],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [123.443787, 9.822563],
+          "properties": {
+            "name": "Rocking Peak",
+            "elev": 1015,
+            "prom": 1015,
+            "coord": "9°49′21″N 123°26′38″E",
+            "prov": ["Cebu"],
+            "region": ["Region VII"],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "bbox": [123.443787, 9.822563, 124.445715, 10.654471]
+}

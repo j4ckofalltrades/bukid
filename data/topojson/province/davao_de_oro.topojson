@@ -1,1 +1,132 @@
-{"type":"Topology","objects":{"mountains":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[126.20361,7.79753],"properties":{"name":"Mount Agtuuganon","elev":1660,"prom":1195,"coord":"7°47′51″N 126°12′13″E","prov":["Davao Oriental","Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[125.673078,7.877959],"properties":{"name":"Mount Ampawid","elev":844,"prom":567,"coord":"7°52′41″N 125°40′23″E","prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[126.195902,7.295572],"properties":{"name":"Mount Candalaga","elev":2268,"prom":872,"coord":"7°17′44″N 126°11′45″E","prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[126.280045,7.309399],"properties":{"name":"Mount Kampalili","elev":2340,"prom":986,"coord":"7°18′34″N 126°16′48″E","prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[126.202356,7.256099],"properties":{"name":"Mount Maitum","elev":2267,"prom":409,"coord":"7°15′22″N 126°12′8″E","prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[125.953772,7.89136],"properties":{"name":"Mount Olagusan","elev":605,"prom":465,"coord":"7°53′29″N 125°57′14″E","prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[126.226167,7.445169],"properties":{"name":"Mount Tagubud","elev":2650,"prom":2553,"coord":"7°26′43″N 126°13′34″E","is_volc":false,"prov":["Davao de Oro"],"region":["Region XI"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}},"arcs":[],"bbox":[125.673078,7.256099,126.280045,7.89136]}
+{
+  "type": "Topology",
+  "objects": {
+    "mountains": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [126.20361, 7.79753],
+          "properties": {
+            "name": "Mount Agtuuganon",
+            "elev": 1660,
+            "prom": 1195,
+            "coord": "7°47′51″N 126°12′13″E",
+            "prov": ["Davao Oriental", "Davao de Oro"],
+            "region": ["Region XI"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [125.673078, 7.877959],
+          "properties": {
+            "name": "Mount Ampawid",
+            "elev": 844,
+            "prom": 567,
+            "coord": "7°52′41″N 125°40′23″E",
+            "prov": ["Davao de Oro"],
+            "region": ["Region XI"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [126.195902, 7.295572],
+          "properties": {
+            "name": "Mount Candalaga",
+            "elev": 2268,
+            "prom": 872,
+            "coord": "7°17′44″N 126°11′45″E",
+            "prov": ["Davao de Oro"],
+            "region": ["Region XI"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [126.280045, 7.309399],
+          "properties": {
+            "name": "Mount Kampalili",
+            "elev": 2340,
+            "prom": 986,
+            "coord": "7°18′34″N 126°16′48″E",
+            "prov": ["Davao de Oro"],
+            "region": ["Region XI"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [126.202356, 7.256099],
+          "properties": {
+            "name": "Mount Maitum",
+            "elev": 2267,
+            "prom": 409,
+            "coord": "7°15′22″N 126°12′8″E",
+            "prov": ["Davao de Oro"],
+            "region": ["Region XI"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [125.953772, 7.89136],
+          "properties": {
+            "name": "Mount Olagusan",
+            "elev": 605,
+            "prom": 465,
+            "coord": "7°53′29″N 125°57′14″E",
+            "prov": ["Davao de Oro"],
+            "region": ["Region XI"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [126.226167, 7.445169],
+          "properties": {
+            "name": "Mount Tagubud",
+            "elev": 2650,
+            "prom": 2553,
+            "coord": "7°26′43″N 126°13′34″E",
+            "is_volc": false,
+            "prov": ["Davao de Oro"],
+            "region": ["Region XI"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "bbox": [125.673078, 7.256099, 126.280045, 7.89136]
+}

@@ -1,1 +1,253 @@
-{"type":"Topology","objects":{"mountains":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[123.283769,7.852243],"properties":{"name":"Bigong","elev":770,"prom":449,"coord":"7°51′8″N 123°17′2″E","is_volc":true,"prov":["Zamboanga del Sur"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[123.46746,8.648874],"properties":{"name":"Mount Canim","elev":495,"prom":398,"coord":"8°38′56″N 123°28′3″E","prov":["Zamboanga del Norte"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.565288,7.998861],"properties":{"name":"Mount Dansalan","elev":628,"prom":434,"coord":"7°59′56″N 122°33′55″E","prov":["Zamboanga del Norte"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[123.237412,7.685619],"properties":{"name":"Mount Imbing","elev":721,"prom":430,"coord":"7°41′8″N 123°14′15″E","prov":["Zamboanga del Sur"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.964474,7.577755],"properties":{"name":"Mount Kaladis","elev":604,"prom":487,"coord":"7°34′40″N 122°57′52″E","prov":["Zamboanga Sibugay"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.268918,7.329667],"properties":{"name":"Mount Maria","elev":484,"prom":350,"coord":"7°19′47″N 122°16′8″E","prov":["Zamboanga del Sur"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[123.534781,8.591771],"properties":{"name":"Mount Nangca","elev":495,"prom":345,"coord":"8°35′30″N 123°32′5″E","prov":["Zamboanga del Norte"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[123.229586,7.974305],"properties":{"name":"Mount Pinukis","elev":1532,"prom":1218,"coord":"7°58′27″N 123°13′47″E","is_volc":true,"prov":["Zamboanga del Sur"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.815785,7.599535],"properties":{"name":"Mount Sibuguey","elev":376,"prom":305,"coord":"7°35′58″N 122°48′57″E","prov":["Zamboanga Sibugay"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[123.258186,7.995185],"properties":{"name":"Mount Sugarloaf","elev":1432,"prom":472,"coord":"7°59′43″N 123°15′29″E","prov":["Zamboanga del Sur"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.489922,7.761605],"properties":{"name":"Quipit Peak","elev":899,"prom":782,"coord":"7°45′42″N 122°29′24″E","prov":["Zamboanga Sibugay"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.254625,7.435092],"properties":{"name":"Sharp Peak","elev":684,"prom":445,"coord":"7°26′6″N 122°15′17″E","prov":["Zamboanga del Sur"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[123.25,8],"properties":{"name":"Sugarloaf Complex","elev":1432,"prom":567,"coord":"8°0′0″N 123°15′0″E","is_volc":true,"prov":["Zamboanga del Sur"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.353238,7.701162],"properties":{"name":"Tupilac Peak","elev":683,"prom":370,"coord":"7°42′4″N 122°21′12″E","prov":["Zamboanga Sibugay"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}},"arcs":[],"bbox":[122.254625,7.329667,123.534781,8.648874]}
+{
+  "type": "Topology",
+  "objects": {
+    "mountains": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [123.283769, 7.852243],
+          "properties": {
+            "name": "Bigong",
+            "elev": 770,
+            "prom": 449,
+            "coord": "7°51′8″N 123°17′2″E",
+            "is_volc": true,
+            "prov": ["Zamboanga del Sur"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [123.46746, 8.648874],
+          "properties": {
+            "name": "Mount Canim",
+            "elev": 495,
+            "prom": 398,
+            "coord": "8°38′56″N 123°28′3″E",
+            "prov": ["Zamboanga del Norte"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [122.565288, 7.998861],
+          "properties": {
+            "name": "Mount Dansalan",
+            "elev": 628,
+            "prom": 434,
+            "coord": "7°59′56″N 122°33′55″E",
+            "prov": ["Zamboanga del Norte"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [123.237412, 7.685619],
+          "properties": {
+            "name": "Mount Imbing",
+            "elev": 721,
+            "prom": 430,
+            "coord": "7°41′8″N 123°14′15″E",
+            "prov": ["Zamboanga del Sur"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [122.964474, 7.577755],
+          "properties": {
+            "name": "Mount Kaladis",
+            "elev": 604,
+            "prom": 487,
+            "coord": "7°34′40″N 122°57′52″E",
+            "prov": ["Zamboanga Sibugay"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [122.268918, 7.329667],
+          "properties": {
+            "name": "Mount Maria",
+            "elev": 484,
+            "prom": 350,
+            "coord": "7°19′47″N 122°16′8″E",
+            "prov": ["Zamboanga del Sur"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [123.534781, 8.591771],
+          "properties": {
+            "name": "Mount Nangca",
+            "elev": 495,
+            "prom": 345,
+            "coord": "8°35′30″N 123°32′5″E",
+            "prov": ["Zamboanga del Norte"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [123.229586, 7.974305],
+          "properties": {
+            "name": "Mount Pinukis",
+            "elev": 1532,
+            "prom": 1218,
+            "coord": "7°58′27″N 123°13′47″E",
+            "is_volc": true,
+            "prov": ["Zamboanga del Sur"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [122.815785, 7.599535],
+          "properties": {
+            "name": "Mount Sibuguey",
+            "elev": 376,
+            "prom": 305,
+            "coord": "7°35′58″N 122°48′57″E",
+            "prov": ["Zamboanga Sibugay"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [123.258186, 7.995185],
+          "properties": {
+            "name": "Mount Sugarloaf",
+            "elev": 1432,
+            "prom": 472,
+            "coord": "7°59′43″N 123°15′29″E",
+            "prov": ["Zamboanga del Sur"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [122.489922, 7.761605],
+          "properties": {
+            "name": "Quipit Peak",
+            "elev": 899,
+            "prom": 782,
+            "coord": "7°45′42″N 122°29′24″E",
+            "prov": ["Zamboanga Sibugay"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [122.254625, 7.435092],
+          "properties": {
+            "name": "Sharp Peak",
+            "elev": 684,
+            "prom": 445,
+            "coord": "7°26′6″N 122°15′17″E",
+            "prov": ["Zamboanga del Sur"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [123.25, 8],
+          "properties": {
+            "name": "Sugarloaf Complex",
+            "elev": 1432,
+            "prom": 567,
+            "coord": "8°0′0″N 123°15′0″E",
+            "is_volc": true,
+            "prov": ["Zamboanga del Sur"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [122.353238, 7.701162],
+          "properties": {
+            "name": "Tupilac Peak",
+            "elev": 683,
+            "prom": 370,
+            "coord": "7°42′4″N 122°21′12″E",
+            "prov": ["Zamboanga Sibugay"],
+            "region": ["Region IX"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "bbox": [122.254625, 7.329667, 123.534781, 8.648874]
+}

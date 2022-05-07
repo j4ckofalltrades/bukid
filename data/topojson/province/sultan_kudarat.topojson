@@ -1,1 +1,63 @@
-{"type":"Topology","objects":{"mountains":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[124.300115,6.267087],"properties":{"name":"Mount Balugo","elev":1224,"prom":411,"coord":"6°16′2″N 124°18′0″E","prov":["Sultan Kudarat"],"region":["Region XII"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[124.504075,6.571615],"properties":{"name":"Mount Itim-Itim","elev":1450,"prom":592,"coord":"6°34′18″N 124°30′15″E","prov":["Sultan Kudarat"],"region":["Region XII"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[124.533327,6.45932],"properties":{"name":"Pitot Kalabaw Mountain","elev":1503,"prom":612,"coord":"6°27′34″N 124°31′60″E","prov":["Sultan Kudarat"],"region":["Region XII"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}},"arcs":[],"bbox":[124.300115,6.267087,124.533327,6.571615]}
+{
+  "type": "Topology",
+  "objects": {
+    "mountains": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [124.300115, 6.267087],
+          "properties": {
+            "name": "Mount Balugo",
+            "elev": 1224,
+            "prom": 411,
+            "coord": "6°16′2″N 124°18′0″E",
+            "prov": ["Sultan Kudarat"],
+            "region": ["Region XII"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [124.504075, 6.571615],
+          "properties": {
+            "name": "Mount Itim-Itim",
+            "elev": 1450,
+            "prom": 592,
+            "coord": "6°34′18″N 124°30′15″E",
+            "prov": ["Sultan Kudarat"],
+            "region": ["Region XII"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [124.533327, 6.45932],
+          "properties": {
+            "name": "Pitot Kalabaw Mountain",
+            "elev": 1503,
+            "prom": 612,
+            "coord": "6°27′34″N 124°31′60″E",
+            "prov": ["Sultan Kudarat"],
+            "region": ["Region XII"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-color": "#259346",
+            "marker-size": "medium",
+            "marker-symbol": "mountain"
+          }
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "bbox": [124.300115, 6.267087, 124.533327, 6.571615]
+}
