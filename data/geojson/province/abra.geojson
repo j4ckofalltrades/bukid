@@ -1,1 +1,226 @@
-{ "type": "FeatureCollection", "features": [] }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.996417, 17.484541] },
+      "properties": {
+        "name": "Mount Balutictic",
+        "elev": 1864,
+        "prom": 338,
+        "coord": "17°29′4″N 120°59′47″E",
+        "prov": ["Abra"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.923897, 17.319537] },
+      "properties": {
+        "name": "Mount Bangbanglang",
+        "elev": 2467,
+        "prom": 428,
+        "coord": "17°19′10″N 120°55′26″E",
+        "prov": ["Abra"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.509365, 17.649906] },
+      "properties": {
+        "name": "Mount Bulagao",
+        "elev": 1114,
+        "prom": 508,
+        "coord": "17°38′60″N 120°30′34″E",
+        "prov": ["Abra"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.96159, 17.709193] },
+      "properties": {
+        "name": "Mount Bumalayak",
+        "elev": 1588,
+        "prom": 518,
+        "coord": "17°42′33″N 120°57′42″E",
+        "prov": ["Abra"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.921233, 17.943266] },
+      "properties": {
+        "name": "Mount Burnay",
+        "elev": 2100,
+        "prom": 314,
+        "coord": "17°56′36″N 120°55′16″E",
+        "prov": ["Ilocos Norte", "Abra"],
+        "region": ["CAR", "Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.702336, 17.842505] },
+      "properties": {
+        "name": "Mount Dagot",
+        "elev": 1205,
+        "prom": 339,
+        "coord": "17°50′33″N 120°42′8″E",
+        "prov": ["Ilocos Norte", "Abra"],
+        "region": ["CAR", "Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.092272, 17.662395] },
+      "properties": {
+        "name": "Mount Manmanoc",
+        "elev": 2024,
+        "prom": 357,
+        "coord": "17°39′45″N 121°5′32″E",
+        "prov": ["Abra"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.641084, 17.364481] },
+      "properties": {
+        "name": "Mount Pangpang",
+        "elev": 795,
+        "prom": 349,
+        "coord": "17°21′52″N 120°38′28″E",
+        "prov": ["Abra"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.79118, 17.350404] },
+      "properties": {
+        "name": "Mount Posooy",
+        "elev": 1505,
+        "prom": 493,
+        "coord": "17°21′1″N 120°47′28″E",
+        "prov": ["Abra"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.101684, 17.679454] },
+      "properties": {
+        "name": "Mount Pulagon",
+        "elev": 1828,
+        "prom": 450,
+        "coord": "17°40′46″N 121°6′6″E",
+        "prov": ["Abra"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.933843, 17.559396] },
+      "properties": {
+        "name": "Mount Pultoc",
+        "elev": 1575,
+        "prom": 337,
+        "coord": "17°33′34″N 120°56′2″E",
+        "prov": ["Abra"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.748685, 17.802128] },
+      "properties": {
+        "name": "Mount Sagang",
+        "elev": 1253,
+        "prom": 653,
+        "coord": "17°48′8″N 120°44′55″E",
+        "prov": ["Abra"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.462877, 17.524817] },
+      "properties": {
+        "name": "South Tetas de Santa",
+        "elev": 639,
+        "prom": 491,
+        "coord": "17°31′29″N 120°27′46″E",
+        "prov": ["Ilocos Sur", "Abra"],
+        "region": ["CAR", "Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

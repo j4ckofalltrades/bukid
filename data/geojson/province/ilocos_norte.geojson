@@ -1,1 +1,176 @@
-{ "type": "FeatureCollection", "features": [] }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.921233, 17.943266] },
+      "properties": {
+        "name": "Mount Burnay",
+        "elev": 2100,
+        "prom": 314,
+        "coord": "17°56′36″N 120°55′16″E",
+        "prov": ["Ilocos Norte", "Abra"],
+        "region": ["CAR", "Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.729447, 17.887259] },
+      "properties": {
+        "name": "Mount Cayudungan",
+        "elev": 1435,
+        "prom": 444,
+        "coord": "17°53′14″N 120°43′46″E",
+        "prov": ["Ilocos Norte"],
+        "region": ["Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.702336, 17.842505] },
+      "properties": {
+        "name": "Mount Dagot",
+        "elev": 1205,
+        "prom": 339,
+        "coord": "17°50′33″N 120°42′8″E",
+        "prov": ["Ilocos Norte", "Abra"],
+        "region": ["CAR", "Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.589212, 17.807778] },
+      "properties": {
+        "name": "Mount Nagapu",
+        "elev": 1225,
+        "prom": 362,
+        "coord": "17°48′28″N 120°35′21″E",
+        "prov": ["Ilocos Norte"],
+        "region": ["Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.923825, 18.258638] },
+      "properties": {
+        "name": "Mount Nagdubaduban",
+        "elev": 1870,
+        "prom": 535,
+        "coord": "18°15′31″N 120°55′26″E",
+        "prov": ["Ilocos Norte"],
+        "region": ["Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.874482, 18.412114] },
+      "properties": {
+        "name": "Mount Pao",
+        "elev": 1315,
+        "prom": 401,
+        "coord": "18°24′44″N 120°52′28″E",
+        "prov": ["Ilocos Norte"],
+        "region": ["Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.887393, 18.516025] },
+      "properties": {
+        "name": "Mount Pico de Loro",
+        "elev": 1350,
+        "prom": 975,
+        "coord": "18°30′58″N 120°53′15″E",
+        "prov": ["Ilocos Norte"],
+        "region": ["Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.807155, 18.486301] },
+      "properties": {
+        "name": "Mount Quebrada",
+        "elev": 985,
+        "prom": 466,
+        "coord": "18°29′11″N 120°48′26″E",
+        "prov": ["Ilocos Norte"],
+        "region": ["Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.938739, 18.013067] },
+      "properties": {
+        "name": "Mount Sicapoo",
+        "elev": 2361,
+        "prom": 1585,
+        "coord": "18°0′47″N 120°56′19″E",
+        "is_volc": false,
+        "prov": ["Ilocos Norte"],
+        "region": ["Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.859426, 18.035369] },
+      "properties": {
+        "name": "Timarid",
+        "elev": 1527,
+        "prom": 429,
+        "coord": "18°2′7″N 120°51′34″E",
+        "prov": ["Ilocos Norte"],
+        "region": ["Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

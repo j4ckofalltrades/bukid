@@ -1,1 +1,74 @@
-{ "type": "FeatureCollection", "features": [] }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [123.199411, 10.125738] },
+      "properties": {
+        "name": "Hinakpan Hills",
+        "elev": 975,
+        "prom": 458,
+        "coord": "10°7′33″N 123°11′58″E",
+        "prov": ["Negros Oriental"],
+        "region": ["Region VII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [122.944644, 9.840129] },
+      "properties": {
+        "name": "Mount Carol-an",
+        "elev": 1030,
+        "prom": 570,
+        "coord": "9°50′24″N 122°56′41″E",
+        "prov": ["Negros Oriental"],
+        "region": ["Region VII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [123.176706, 9.243235] },
+      "properties": {
+        "name": "Mount Cuernos de Negros (Talinis)",
+        "elev": 1903,
+        "prom": 1482,
+        "coord": "9°14′36″N 123°10′36″E",
+        "is_volc": true,
+        "prov": ["Negros Oriental"],
+        "region": ["Region VII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [123.06323, 10.036319] },
+      "properties": {
+        "name": "Mount Irene",
+        "elev": 1479,
+        "prom": 1039,
+        "coord": "10°2′11″N 123°3′48″E",
+        "prov": ["Negros Oriental"],
+        "region": ["Region VII"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

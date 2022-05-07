@@ -1,1 +1,76 @@
-{ "type": "FeatureCollection", "features": [] }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [123.130379, 10.409517] },
+      "properties": {
+        "name": "Mount Kanlaon",
+        "elev": 2465,
+        "prom": 2465,
+        "coord": "10°24′34″N 123°7′49″E",
+        "is_volc": false,
+        "prov": ["Negros Occidental"],
+        "region": ["Region VI"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [122.615058, 9.895637] },
+      "properties": {
+        "name": "Mount Malapantao",
+        "elev": 595,
+        "prom": 400,
+        "coord": "9°53′44″N 122°36′54″E",
+        "prov": ["Negros Occidental"],
+        "region": ["Region VI"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [123.235464, 10.637215] },
+      "properties": {
+        "name": "Mount Mandalagan",
+        "elev": 1885,
+        "prom": 1338,
+        "coord": "10°38′14″N 123°14′8″E",
+        "is_volc": true,
+        "prov": ["Negros Occidental"],
+        "region": ["Region VI"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [123.232801, 10.770319] },
+      "properties": {
+        "name": "Mount Silay",
+        "elev": 1535,
+        "prom": 757,
+        "coord": "10°46′13″N 123°13′58″E",
+        "is_volc": true,
+        "prov": ["Negros Occidental"],
+        "region": ["Region VI"],
+        "isl_grp": "Visayas",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

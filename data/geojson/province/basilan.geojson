@@ -1,1 +1,108 @@
-{ "type": "FeatureCollection", "features": [] }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.984901, 6.501514] },
+      "properties": {
+        "name": "Abongabong Peak",
+        "elev": 882,
+        "prom": 347,
+        "coord": "6°30′5″N 121°59′6″E",
+        "prov": ["Basilan"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [122.07287, 6.548291] },
+      "properties": {
+        "name": "Basilan Peak",
+        "elev": 998,
+        "prom": 998,
+        "coord": "6°32′54″N 122°4′22″E",
+        "prov": ["Basilan"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [122.3, 6.533333] },
+      "properties": {
+        "name": "Matanal",
+        "elev": 611,
+        "prom": 611,
+        "coord": "6°31′60″N 122°17′60″E",
+        "is_volc": true,
+        "prov": ["Basilan"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [122.181553, 6.572436] },
+      "properties": {
+        "name": "Mount Cobung",
+        "elev": 592,
+        "prom": 362,
+        "coord": "6°34′21″N 122°10′54″E",
+        "prov": ["Basilan"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [122.301417, 6.616835] },
+      "properties": {
+        "name": "Mount Matanal",
+        "elev": 611,
+        "prom": 519,
+        "coord": "6°37′1″N 122°18′5″E",
+        "prov": ["Basilan"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [122.207211, 6.631585] },
+      "properties": {
+        "name": "Mount Siningcapan",
+        "elev": 537,
+        "prom": 404,
+        "coord": "6°37′54″N 122°12′26″E",
+        "prov": ["Basilan"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

@@ -1,7 +1,1 @@
-{
-  "type": "Topology",
-  "objects": {
-    "mountains": { "type": "GeometryCollection", "geometries": [] }
-  },
-  "arcs": []
-}
+{"type":"Topology","objects":{"mountains":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[121.993126,11.824444],"properties":{"name":"Mount Tinayunga","elev":915,"prom":855,"coord":"11°49′28″N 121°59′35″E","prov":["Aklan","Antique"],"region":["Region VI"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.15171,11.609837],"properties":{"name":"Mount Usigan","elev":1066,"prom":498,"coord":"11°36′35″N 122°9′6″E","prov":["Aklan"],"region":["Region VI"],"isl_grp":"Visayas","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}},"arcs":[],"bbox":[121.993126,11.609837,122.15171,11.824444]}

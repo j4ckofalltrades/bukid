@@ -26,9 +26,12 @@ The entire dataset is available under the [data](./data) directory, including th
 - by Region e.g. CAR, Region VI, etc.
 - by Province e.g. Capiz, Iloilo, etc.
 
-## Interactive Map
+## Visualization
 
-Check it out at [bukid.vercel.app](https://bukid.vercel.app)
+- Interactive map at [bukid.vercel.app](https://bukid.vercel.app)
+- View the rendered [geojson](data/geojson/index.geojson) and [topojson](data/topojson/index.topojson) directly in GitHub 
+- View the GeoJSON files at [geojson.io](https://geojson.io)
+- View changes locally by opening [index.html](index.html)
 
 <img src="assets/interactive-map.png" alt="Interactive Map" height="714px" width="542px">
 
@@ -40,7 +43,7 @@ Metadata for each mountain can be parsed from the `properties` field.
 |-------------|------------------------------------------------------------------------------------------|----------|
 | `name`      | Name of the mountain                                                                     | required |
 | `elev`      | Height in meters                                                                         | required |
-| `prom`      | [Topographic prominence](https://en.wikipedia.org/wiki/Topographic_prominence) in meters | required |
+| `prom`      | [Topographic prominence](https://en.wikipedia.org/wiki/Topographic_prominence) in meters | optional |
 | `coord`     | Formatted coordinates                                                                    | required |
 | `is_volc`   | If the mountain is a volcano or not                                                      | optional |
 | `prov`      | One or more provinces where the mountain is located                                      | required |
@@ -52,11 +55,19 @@ Metadata for each mountain can be parsed from the `properties` field.
 
 Metadata for styling GeoJSON data, see [simplestyle-spec](https://github.com/mapbox/simplestyle-spec).
 
-| field           | value    |
-|-----------------|----------|
-| `marker-color`  | #259346  |
-| `marker-symbol` | mountain |
-| `marker-size`   | medium   |
+| field           | value                  |
+|-----------------|------------------------|
+| `marker-color`  | #259346                |
+| `marker-symbol` | mountain               |
+| `marker-size`   | _depends on elevation_ |
+
+For `marker-size` values can either be `small`, `medium`, or `large` based on the mountain's elevation, refer to the following table:
+
+| elevation          | marker-size |
+|--------------------|-------------|
+| <= 500m            | small       |
+| \> 500m && < 1500m | medium      |
+| \>=1500m           | large       |
 
 ## Sample
 
@@ -82,7 +93,7 @@ GeoJSON and TopoJSON data for Mount Apo.
     "isl_grp": "Mindanao",
     "alt_names": [],
     "marker-color": "#259346",
-    "marker-size": "small",
+    "marker-size": "large",
     "marker-symbol": "mountain"
   }
 }
@@ -106,7 +117,7 @@ GeoJSON and TopoJSON data for Mount Apo.
     "isl_grp": "Mindanao",
     "alt_names": [],
     "marker-color": "#259346",
-    "marker-size": "small",
+    "marker-size": "large",
     "marker-symbol": "mountain"
   }
 }
@@ -134,7 +145,7 @@ GeoJSON and TopoJSON data for Mount Apo.
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           },
           "coordinates": [8876, 1255]
@@ -167,7 +178,7 @@ GeoJSON and TopoJSON data for Mount Apo.
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           },
           "coordinates": [8876, 1255]
@@ -180,10 +191,11 @@ GeoJSON and TopoJSON data for Mount Apo.
 }
 ```
 
-## TODO
+## Contributing
 
-- [] Add fuzzy search
+This is by no means an exhaustive list, so contributions are more than welcome.
+Please read and follow the [contribution guidelines](CONTRIBUTING.md).
 
-- [x] Add location data (region and province) 
+## Stats
 
-- [x] Interactive map
+![Alt](https://repobeats.axiom.co/api/embed/e7c00fcbb49cae52d703a84c592860445eff8359.svg "Repobeats analytics image")

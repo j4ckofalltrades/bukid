@@ -1,146 +1,145 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8"/>
-    <title>búkid - PH Mountains</title>
-    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no"/>
-    <script src="https://unpkg.com/maplibre-gl@2.1.9/dist/maplibre-gl.js"></script>
-    <link href="https://unpkg.com/maplibre-gl@2.1.9/dist/maplibre-gl.css" rel="stylesheet"/>
-    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-        }
+  <meta charset="utf-8" />
+  <title>búkid - PH Mountains</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <script src="https://unpkg.com/maplibre-gl@2.1.9/dist/maplibre-gl.js"></script>
+  <link href="https://unpkg.com/maplibre-gl@2.1.9/dist/maplibre-gl.css" rel="stylesheet" />
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+  <style>
+      body {
+          margin: 0;
+          padding: 0;
+      }
 
-        #map {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            width: 100%;
-        }
+      #map {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          width: 100%;
+      }
 
-        #logo {
-            position: absolute;
-            left: 10px;
-            z-index: 1;
-        }
+      #logo {
+          position: absolute;
+          left: 10px;
+          z-index: 1;
+      }
 
-        .filter-ctrl {
-            position: absolute;
-            top: 190px;
-            left: 25px;
-            z-index: 1;
-        }
+      .filter-ctrl {
+          position: absolute;
+          top: 190px;
+          left: 25px;
+          z-index: 1;
+      }
 
-        .filter-ctrl input[type='text'] {
-            font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-            border: 0;
-            background-color: #fff;
-            margin: 0;
-            color: rgba(0, 0, 0, 0.5);
-            padding: 10px;
-            box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
-            border-radius: 3px;
-            width: 140px;
-        }
-    </style>
+      .filter-ctrl input[type='text'] {
+          font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+          border: 0;
+          background-color: #fff;
+          margin: 0;
+          color: rgba(0, 0, 0, 0.5);
+          padding: 10px;
+          box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+          border-radius: 3px;
+          width: 140px;
+      }
+  </style>
 </head>
 <body>
 <div id="logo">
-    <img src="assets/logo.png" alt="logo"/>
+  <img src="assets/logo.png" alt="logo" />
 </div>
 <div id="map"></div>
 <div class="filter-ctrl">
-    <label for="filter-input"></label>
-    <input id="filter-input" type="text" name="filter" placeholder="Filter by name"/>
+  <label for="filter-input"></label>
+  <input id="filter-input" type="text" name="filter" placeholder="Filter by name" />
 </div>
 <script>
   // set initial load point to PH
   const map = new maplibregl.Map({
-    container: 'map',
-    style: 'https://api.maptiler.com/maps/topo/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
+    container: "map",
+    style: "https://api.maptiler.com/maps/topo/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
     center: [121.652, 12.954],
-    zoom: 6
-  });
+    zoom: 6,
+  })
 
-  map.on('load', function () {
+  map.on("load", function() {
     // load full PH mountain geojson dataset
-    map.addSource('mountains', {
-      'type': 'geojson',
-      'data': './data/geojson/index.geojson'
-    });
+    map.addSource("mountains", {
+      "type": "geojson",
+      "data": "./data/geojson/index.geojson",
+    })
 
     map.addLayer({
-      'id': 'mountains',
-      'type': 'symbol',
-      'source': 'mountains',
-      'layout': {
-        'icon-image': ['image', 'mountain_15'],
-        'icon-overlap': 'cooperative',
+      "id": "mountains",
+      "type": "symbol",
+      "source": "mountains",
+      "layout": {
+        "icon-image": ["image", "mountain_15"],
+        "icon-overlap": "cooperative",
         "icon-size": 1.25,
-        'text-field': ['get', 'name'],
-        'text-size': 11,
-        'text-font': [
-          'Open Sans Semibold',
-          'Arial Unicode MS Bold'
+        "text-field": ["get", "name"],
+        "text-size": 11,
+        "text-font": [
+          "Open Sans Semibold",
+          "Arial Unicode MS Bold",
         ],
-        'text-offset': [0, 1.25],
-        'text-anchor': 'top'
-      }
-    });
+        "text-offset": [0, 1.25],
+        "text-anchor": "top",
+      },
+    })
 
-    map.addControl(new maplibregl.NavigationControl());
+    map.addControl(new maplibregl.NavigationControl())
 
     // search by mountain name
-    const filterInput = document.getElementById('filter-input');
-    filterInput.addEventListener('keyup', function (e) {
+    const filterInput = document.getElementById("filter-input")
+    filterInput.addEventListener("keyup", function(e) {
       const value = e.target.value.trim().toLowerCase()
       if (value) {
-        map.setFilter('mountains', ['==', ['downcase', ['get', 'name']], value])
+        map.setFilter("mountains", ["==", ["downcase", ["get", "name"]], value])
       } else {
-        map.setFilter('mountains', null)
+        map.setFilter("mountains", null)
       }
-    });
-  });
+    })
+  })
 
   // show mountain details on hover
   const popup = new maplibregl.Popup({
     closeButton: false,
-    closeOnClick: false
-  });
+    closeOnClick: false,
+  })
 
-  map.on('mouseenter', 'mountains', function (e) {
-    map.getCanvas().style.cursor = 'pointer';
+  map.on("mouseenter", "mountains", function(e) {
+    map.getCanvas().style.cursor = "pointer"
 
-    const coordinates = e.features[0].geometry.coordinates.slice();
+    const coordinates = e.features[0].geometry.coordinates.slice()
     while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360
     }
 
-    const name = e.features[0].properties.name;
-    const elevation = e.features[0].properties.elev;
-    const prominence = e.features[0].properties.prom;
-    const provinces = JSON.parse(e.features[0].properties.prov);
-    const regions = JSON.parse(e.features[0].properties.region);
+    const name = e.features[0].properties.name
+    const elevation = e.features[0].properties.elev
+    const prominence = e.features[0].properties.prom
+    const provinces = JSON.parse(e.features[0].properties.prov)
+    const regions = JSON.parse(e.features[0].properties.region)
 
     popup.setLngLat(coordinates)
-        .setHTML(
-            "<strong>" + name + "</strong>"
-            + "<p>"
-            + "Elevation: " + elevation + "m" + "<br/>"
-            + "Prominence: " + prominence + "m" + "<br/>"
-            + "Province: " + provinces.join(", ") + "<br/>"
-            + "Region: " + regions.join(", ") + "<br/>"
-            + "</p>")
-        .addTo(map);
-  });
+      .setHTML(
+        "<strong>" + name + "</strong>"
+        + "<p>"
+        + "Elevation: " + elevation + "m" + "<br/>"
+        + "Prominence: " + prominence + "m" + "<br/>"
+        + "Province: " + provinces.join(", ") + "<br/>"
+        + "Region: " + regions.join(", ") + "<br/>"
+        + "</p>")
+      .addTo(map)
+  })
 
-  map.on('mouseleave', 'mountains', function () {
-    map.getCanvas().style.cursor = '';
-    popup.remove();
-  });
+  map.on("mouseleave", "mountains", function() {
+    map.getCanvas().style.cursor = ""
+    popup.remove()
+  })
 </script>
-
 </body>
 </html>

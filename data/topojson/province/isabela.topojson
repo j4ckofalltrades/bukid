@@ -1,7 +1,1 @@
-{
-  "type": "Topology",
-  "objects": {
-    "mountains": { "type": "GeometryCollection", "geometries": [] }
-  },
-  "arcs": []
-}
+{"type":"Topology","objects":{"mountains":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[122.139016,17.496101],"properties":{"name":"Bukid Mountain","elev":1119,"prom":364,"coord":"17°29′46″N 122°8′20″E","prov":["Isabela"],"region":["Region II"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.086436,17.308722],"properties":{"name":"Mount Cresta","elev":1672,"prom":597,"coord":"17°18′31″N 122°5′11″E","prov":["Isabela"],"region":["Region II"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.003013,17.533804],"properties":{"name":"Mount Dos Cuernos","elev":1736,"prom":924,"coord":"17°32′2″N 122°0′11″E","prov":["Isabela"],"region":["Region II"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.077032,16.530623],"properties":{"name":"Mount Dos Hermanos","elev":1388,"prom":675,"coord":"16°31′50″N 122°4′37″E","prov":["Isabela"],"region":["Region II"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.275805,17.061638],"properties":{"name":"Mount Palanan","elev":1195,"prom":505,"coord":"17°3′42″N 122°16′33″E","prov":["Isabela"],"region":["Region II"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}},"arcs":[],"bbox":[122.003013,16.530623,122.275805,17.533804]}

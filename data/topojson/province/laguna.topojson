@@ -1,7 +1,1 @@
-{
-  "type": "Topology",
-  "objects": {
-    "mountains": { "type": "GeometryCollection", "geometries": [] }
-  },
-  "arcs": []
-}
+{"type":"Topology","objects":{"mountains":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[121.365544,14.149268],"properties":{"name":"Atimbia","elev":664,"prom":453,"coord":"14°8′57″N 121°21′56″E","prov":["Laguna"],"region":["Region IV-A"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[121.321787,14.124179],"properties":{"name":"Lagula","elev":493,"prom":349,"coord":"14°7′27″N 121°19′18″E","prov":["Laguna"],"region":["Region IV-A"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[121.193743,14.135773],"properties":{"name":"Mount Makiling Peak 2","elev":1110,"prom":992,"coord":"14°8′9″N 121°11′37″E","prov":["Laguna"],"region":["Region IV-A"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[121.426661,14.064392],"properties":{"name":"Mount San Cristobal","elev":1487,"prom":640,"coord":"14°3′52″N 121°25′36″E","prov":["Laguna"],"region":["Region IV-A"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[121.365146,14.385127],"properties":{"name":"Mount Sembrano","elev":743,"prom":496,"coord":"14°23′6″N 121°21′55″E","prov":["Laguna","Rizal"],"region":["Region IV-A"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}},"arcs":[],"bbox":[121.193743,14.064392,121.426661,14.385127]}

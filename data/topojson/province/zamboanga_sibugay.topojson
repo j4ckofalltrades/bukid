@@ -1,7 +1,1 @@
-{
-  "type": "Topology",
-  "objects": {
-    "mountains": { "type": "GeometryCollection", "geometries": [] }
-  },
-  "arcs": []
-}
+{"type":"Topology","objects":{"mountains":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[122.964474,7.577755],"properties":{"name":"Mount Kaladis","elev":604,"prom":487,"coord":"7°34′40″N 122°57′52″E","prov":["Zamboanga Sibugay"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.815785,7.599535],"properties":{"name":"Mount Sibuguey","elev":376,"prom":305,"coord":"7°35′58″N 122°48′57″E","prov":["Zamboanga Sibugay"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.489922,7.761605],"properties":{"name":"Quipit Peak","elev":899,"prom":782,"coord":"7°45′42″N 122°29′24″E","prov":["Zamboanga Sibugay"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[122.353238,7.701162],"properties":{"name":"Tupilac Peak","elev":683,"prom":370,"coord":"7°42′4″N 122°21′12″E","prov":["Zamboanga Sibugay"],"region":["Region IX"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}},"arcs":[],"bbox":[122.353238,7.577755,122.964474,7.761605]}

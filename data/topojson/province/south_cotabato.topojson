@@ -1,7 +1,1 @@
-{
-  "type": "Topology",
-  "objects": {
-    "mountains": { "type": "GeometryCollection", "geometries": [] }
-  },
-  "arcs": []
-}
+{"type":"Topology","objects":{"mountains":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[124.905,6.207287],"properties":{"name":"Breast Peak","elev":1513,"prom":341,"coord":"6°12′26″N 124°54′18″E","prov":["South Cotabato"],"region":["Region XII"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[124.936717,6.133998],"properties":{"name":"Horse Mountain","elev":1666,"prom":364,"coord":"6°8′2″N 124°56′12″E","prov":["South Cotabato"],"region":["Region XII"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[125.076958,6.360297],"properties":{"name":"Mount Matutum","elev":2286,"prom":1954,"coord":"6°21′37″N 125°4′37″E","is_volc":true,"prov":["South Cotabato"],"region":["Region XII"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[124.88293,6.083497],"properties":{"name":"Thumb Peak","elev":1852,"prom":809,"coord":"6°5′1″N 124°52′59″E","prov":["South Cotabato"],"region":["Region XII"],"isl_grp":"Mindanao","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}},"arcs":[],"bbox":[124.88293,6.083497,125.076958,6.360297]}

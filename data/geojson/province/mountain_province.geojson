@@ -1,1 +1,39 @@
-{ "type": "FeatureCollection", "features": [] }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.870626, 17.182184] },
+      "properties": {
+        "name": "Mount Camingingel",
+        "elev": 2371,
+        "prom": 316,
+        "coord": "17°10′56″N 120°52′14″E",
+        "prov": ["Ilocos Sur", "Mountain Province"],
+        "region": ["CAR", "Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.252513, 17.123058] },
+      "properties": {
+        "name": "Mount Oyayao",
+        "elev": 1871,
+        "prom": 372,
+        "coord": "17°7′23″N 121°15′9″E",
+        "prov": ["Mountain Province"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

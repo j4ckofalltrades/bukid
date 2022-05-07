@@ -1,1 +1,244 @@
-{ "type": "FeatureCollection", "features": [] }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.858027, 5.526915] },
+      "properties": {
+        "name": "Gorro Peak",
+        "elev": 482,
+        "prom": 482,
+        "coord": "5°31′37″N 120°51′29″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.833995, 6.133854] },
+      "properties": {
+        "name": "Mount Bulaan",
+        "elev": 329,
+        "prom": 329,
+        "coord": "6°8′2″N 121°50′2″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.423917, 6.025599] },
+      "properties": {
+        "name": "Mount Capual",
+        "elev": 315,
+        "prom": 315,
+        "coord": "6°1′32″N 121°25′26″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.905531, 5.73057] },
+      "properties": {
+        "name": "Mount Dakut",
+        "elev": 474,
+        "prom": 474,
+        "coord": "5°43′50″N 120°54′20″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.760636, 5.515787] },
+      "properties": {
+        "name": "Mount Lapak",
+        "elev": 357,
+        "prom": 357,
+        "coord": "5°30′57″N 120°45′38″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.163776, 5.813001] },
+      "properties": {
+        "name": "Mount Palan",
+        "elev": 401,
+        "prom": 401,
+        "coord": "5°48′47″N 121°9′50″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.401141, 5.977923] },
+      "properties": {
+        "name": "Mount Parangan",
+        "elev": 389,
+        "prom": 357,
+        "coord": "5°58′41″N 121°24′4″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.300772, 5.909261] },
+      "properties": {
+        "name": "Mount Sandahan",
+        "elev": 392,
+        "prom": 314,
+        "coord": "5°54′33″N 121°18′3″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.1, 6.037747] },
+      "properties": {
+        "name": "Mount Sinumaan",
+        "elev": 785,
+        "prom": 655,
+        "coord": "6°2′16″N 121°5′60″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.075039, 5.942561] },
+      "properties": {
+        "name": "Mount Talipau",
+        "elev": 447,
+        "prom": 325,
+        "coord": "5°56′33″N 121°4′30″E",
+        "is_volc": true,
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.949928, 5.931152] },
+      "properties": {
+        "name": "Mount Tukay",
+        "elev": 573,
+        "prom": 392,
+        "coord": "5°55′52″N 120°56′60″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.962353, 5.997105] },
+      "properties": {
+        "name": "Mount Tumatangas",
+        "elev": 811,
+        "prom": 811,
+        "coord": "5°59′50″N 120°57′44″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.2584, 5.9839] },
+      "properties": {
+        "name": "Mount Urot",
+        "elev": 430,
+        "prom": 408,
+        "coord": "5°59′2″N 121°15′30″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.3947, 5.9361] },
+      "properties": {
+        "name": "Tandu Hill",
+        "elev": 308,
+        "prom": 308,
+        "coord": "5°56′10″N 121°23′41″E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}

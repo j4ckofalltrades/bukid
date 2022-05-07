@@ -1,7 +1,1 @@
-{
-  "type": "Topology",
-  "objects": {
-    "mountains": { "type": "GeometryCollection", "geometries": [] }
-  },
-  "arcs": []
-}
+{"type":"Topology","objects":{"mountains":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[120.686236,14.204478],"properties":{"name":"Mount Mataas na Gulod","elev":642,"prom":329,"coord":"14°12′16″N 120°41′10″E","prov":["Cavite"],"region":["Region IV-A"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}},{"type":"Point","coordinates":[120.646051,14.21419],"properties":{"name":"Mount Pico de Loro","elev":688,"prom":500,"coord":"14°12′51″N 120°38′46″E","prov":["Cavite","Batangas"],"region":["Region IV-A"],"isl_grp":"Luzon","alt_names":[],"marker-color":"#259346","marker-size":"medium","marker-symbol":"mountain"}}]}},"arcs":[],"bbox":[120.646051,14.204478,120.686236,14.21419]}

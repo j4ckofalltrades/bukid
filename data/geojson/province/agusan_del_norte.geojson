@@ -1,1 +1,91 @@
-{ "type": "FeatureCollection", "features": [] }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.705315, 9.096663] },
+      "properties": {
+        "name": "Mount Hilonghilong",
+        "elev": 2012,
+        "prom": 1930,
+        "coord": "9°5′48″N 125°42′19″E",
+        "is_volc": false,
+        "prov": ["Agusan del Norte"],
+        "region": ["Region XIII"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.307195, 8.793787] },
+      "properties": {
+        "name": "Mount Indocay",
+        "elev": 1243,
+        "prom": 666,
+        "coord": "8°47′38″N 125°18′26″E",
+        "prov": ["Agusan del Norte"],
+        "region": ["Region XIII"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.67898, 9.302293] },
+      "properties": {
+        "name": "Mount Mabaho",
+        "elev": 1860,
+        "prom": 745,
+        "coord": "9°18′8″N 125°40′44″E",
+        "prov": ["Agusan del Norte"],
+        "region": ["Region XIII"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.46756, 8.877407] },
+      "properties": {
+        "name": "Mount Mayapay",
+        "elev": 698,
+        "prom": 530,
+        "coord": "8°52′39″N 125°28′3″E",
+        "prov": ["Agusan del Norte"],
+        "region": ["Region XIII"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.228363, 8.854412] },
+      "properties": {
+        "name": "Mount Piglagahan",
+        "elev": 809,
+        "prom": 489,
+        "coord": "8°51′16″N 125°13′42″E",
+        "prov": ["Agusan del Norte", "Misamis Oriental"],
+        "region": ["Region X", "Region XIII"],
+        "isl_grp": "Mindanao",
+        "alt_names": [],
+        "marker-color": "#259346",
+        "marker-size": "medium",
+        "marker-symbol": "mountain"
+      }
+    }
+  ]
+}
