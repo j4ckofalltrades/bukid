@@ -29,7 +29,7 @@ The entire dataset is available under the [data](./data) directory, including th
 ## Visualization
 
 - Interactive map at [bukid.vercel.app](https://bukid.vercel.app)
-- View the rendered [geojson](data/geojson/index.geojson) and [topojson](data/topojson/index.topojson) directly in GitHub 
+- View the rendered [geojson](data/geojson/index.geojson) and [topojson](data/topojson/index.topojson) directly in GitHub
 - View the GeoJSON files at [geojson.io](https://geojson.io)
 - View changes locally by opening [index.html](index.html)
 
@@ -129,11 +129,12 @@ GeoJSON and TopoJSON data for Mount Apo.
 {
   "type": "Topology",
   "objects": {
-    "collection": {
+    "mountains": {
       "type": "GeometryCollection",
       "geometries": [
         {
           "type": "Point",
+          "coordinates": [125.270832, 6.987199],
           "properties": {
             "name": "Apo",
             "elev": 2954,
@@ -147,8 +148,7 @@ GeoJSON and TopoJSON data for Mount Apo.
             "marker-color": "#259346",
             "marker-size": "large",
             "marker-symbol": "mountain"
-          },
-          "coordinates": [8876, 1255]
+          }
         }
       ]
     }
@@ -162,26 +162,26 @@ GeoJSON and TopoJSON data for Mount Apo.
 {
   "type": "Topology",
   "objects": {
-    "collection": {
+    "mountains": {
       "type": "GeometryCollection",
       "geometries": [
         {
           "type": "Point",
+          "coordinates": [125.270832, 6.987199],
           "properties": {
-            "name": "Apo",
+            "name": "Mount Apo",
             "elev": 2954,
             "prom": 2954,
             "coord": "6°59′14″N 125°16′15″E",
             "is_volc": true,
-            "prov":  ["Cotabato", "Davao del Sur"],
+            "prov": ["Davao del Sur", "Cotabato"],
             "region": ["Region XI", "Region XII"],
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
             "marker-size": "large",
             "marker-symbol": "mountain"
-          },
-          "coordinates": [8876, 1255]
+          }
         }
       ]
     }
