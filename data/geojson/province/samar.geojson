@@ -15,7 +15,7 @@
         "isl_grp": "Visayas",
         "alt_names": [],
         "marker-color": "#259346",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "mountain"
       }
     },
@@ -32,7 +32,7 @@
         "isl_grp": "Visayas",
         "alt_names": [],
         "marker-color": "#259346",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "mountain"
       }
     },
@@ -100,7 +100,7 @@
         "isl_grp": "Visayas",
         "alt_names": [],
         "marker-color": "#259346",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "mountain"
       }
     }

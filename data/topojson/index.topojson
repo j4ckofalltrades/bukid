@@ -85,7 +85,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -190,7 +190,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -207,7 +207,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -311,7 +311,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -328,7 +328,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -396,7 +396,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -414,7 +414,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -448,7 +448,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -501,7 +501,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -657,7 +657,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -742,7 +742,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -794,7 +794,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -828,7 +828,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -863,7 +863,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -880,7 +880,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -914,7 +914,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -932,7 +932,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -967,7 +967,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -984,7 +984,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -1037,7 +1037,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1156,7 +1156,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1224,7 +1224,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1241,7 +1241,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1275,7 +1275,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1327,7 +1327,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1379,7 +1379,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1396,7 +1396,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1413,7 +1413,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1465,7 +1465,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1516,7 +1516,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1569,7 +1569,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1620,7 +1620,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1655,7 +1655,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1723,7 +1723,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1775,7 +1775,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1793,7 +1793,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1810,7 +1810,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -1827,7 +1827,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -1964,7 +1964,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2067,7 +2067,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -2188,7 +2188,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2222,7 +2222,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2257,7 +2257,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -2274,7 +2274,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -2291,7 +2291,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2308,7 +2308,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -2326,7 +2326,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -2343,7 +2343,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2413,7 +2413,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2482,7 +2482,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -2550,7 +2550,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2602,7 +2602,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -2619,7 +2619,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2636,7 +2636,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -2670,7 +2670,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2755,7 +2755,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2789,7 +2789,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2840,7 +2840,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2874,7 +2874,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -2891,7 +2891,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2959,7 +2959,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -2993,7 +2993,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3028,7 +3028,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3045,7 +3045,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -3096,7 +3096,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -3113,7 +3113,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3130,7 +3130,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3164,7 +3164,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3198,7 +3198,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3215,7 +3215,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3250,7 +3250,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3285,7 +3285,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -3319,7 +3319,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3371,7 +3371,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3389,7 +3389,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3406,7 +3406,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3423,7 +3423,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -3458,7 +3458,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3476,7 +3476,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3494,7 +3494,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3512,7 +3512,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3546,7 +3546,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -3614,7 +3614,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3648,7 +3648,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3682,7 +3682,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3750,7 +3750,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3768,7 +3768,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3836,7 +3836,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3905,7 +3905,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3922,7 +3922,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3939,7 +3939,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3957,7 +3957,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -3991,7 +3991,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4025,7 +4025,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4077,7 +4077,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4094,7 +4094,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -4128,7 +4128,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4146,7 +4146,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4163,7 +4163,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4180,7 +4180,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -4231,7 +4231,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4248,7 +4248,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -4265,7 +4265,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4283,7 +4283,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4317,7 +4317,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -4351,7 +4351,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4368,7 +4368,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -4385,7 +4385,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4454,7 +4454,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4488,7 +4488,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4522,7 +4522,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4539,7 +4539,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -4556,7 +4556,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4660,7 +4660,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4763,7 +4763,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -4780,7 +4780,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4797,7 +4797,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -4934,7 +4934,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -4986,7 +4986,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5020,7 +5020,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5037,7 +5037,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5055,7 +5055,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5072,7 +5072,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5089,7 +5089,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5124,7 +5124,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5175,7 +5175,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5296,7 +5296,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5330,7 +5330,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5347,7 +5347,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5382,7 +5382,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5399,7 +5399,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5416,7 +5416,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5433,7 +5433,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5467,7 +5467,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5518,7 +5518,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5535,7 +5535,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5569,7 +5569,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5586,7 +5586,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5603,7 +5603,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5620,7 +5620,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5637,7 +5637,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5654,7 +5654,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5722,7 +5722,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5791,7 +5791,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5842,7 +5842,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5876,7 +5876,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5910,7 +5910,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -5927,7 +5927,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5978,7 +5978,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -5995,7 +5995,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6064,7 +6064,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -6098,7 +6098,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6132,7 +6132,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -6252,7 +6252,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6356,7 +6356,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6373,7 +6373,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6390,7 +6390,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6407,7 +6407,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -6425,7 +6425,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6442,7 +6442,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6476,7 +6476,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6545,7 +6545,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6613,7 +6613,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6732,7 +6732,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -6766,7 +6766,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -6783,7 +6783,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6817,7 +6817,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6851,7 +6851,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -6937,7 +6937,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -6955,7 +6955,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -6972,7 +6972,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -6990,7 +6990,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7042,7 +7042,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7144,7 +7144,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7195,7 +7195,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7212,7 +7212,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7247,7 +7247,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7265,7 +7265,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7299,7 +7299,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7317,7 +7317,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7352,7 +7352,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7403,7 +7403,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7438,7 +7438,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7456,7 +7456,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7473,7 +7473,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7541,7 +7541,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7575,7 +7575,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7609,7 +7609,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7677,7 +7677,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7694,7 +7694,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7711,7 +7711,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7745,7 +7745,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7779,7 +7779,7 @@
             "isl_grp": "Visayas",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7796,7 +7796,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7814,7 +7814,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7832,7 +7832,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7849,7 +7849,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7902,7 +7902,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -7954,7 +7954,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -7988,7 +7988,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -8005,7 +8005,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -8058,7 +8058,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -8160,7 +8160,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -8211,7 +8211,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -8228,7 +8228,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -8263,7 +8263,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -8297,7 +8297,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -8349,7 +8349,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -8417,7 +8417,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -8434,7 +8434,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -8452,7 +8452,7 @@
             "isl_grp": "Mindanao",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "mountain"
           }
         },
@@ -8469,7 +8469,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
@@ -8538,7 +8538,7 @@
             "isl_grp": "Luzon",
             "alt_names": [],
             "marker-color": "#259346",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "mountain"
           }
         },
