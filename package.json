@@ -17,7 +17,6 @@
   },
   "homepage": "https://bukid.vercel.app",
   "devDependencies": {
-    "@mapbox/togeojson": "^0.16.0",
     "@types/geojson": "7946.0.8",
     "@types/topojson": "^3.2.3",
     "husky": "^7.0.4",
