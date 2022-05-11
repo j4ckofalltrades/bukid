@@ -33,7 +33,7 @@ The entire dataset is available under the [data](./data) directory, including th
 - View the GeoJSON files at [geojson.io](https://geojson.io)
 - View changes locally by opening [index.html](index.html)
 
-<img src="assets/interactive-map.png" alt="Interactive Map" height="714px" width="542px">
+<img src="assets/map.png" alt="Interactive Map" height="714px" width="542px">
 
 ## Metadata
 

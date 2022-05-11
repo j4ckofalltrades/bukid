@@ -22,8 +22,12 @@
 
       #logo {
           position: absolute;
-          left: 10px;
+          right: 40px;
           z-index: 1;
+      }
+
+      #logo > img {
+          height: 110px;
       }
   </style>
 </head>
@@ -111,7 +115,7 @@
         "icon-image": ["image", "mountain_15"],
         "icon-overlap": "cooperative",
         // Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
-        // with three steps to show different marker sizes based on mountain elevation :
+        // with three steps to show different marker sizes based on mountain elevation:
         //   * icon-size of 1 when elevation <= 500
         //   * icon-size of 1.25 when elevation >= 500 && < 1500
         //   * icon-size of 1.5 when elevation >= 1500
