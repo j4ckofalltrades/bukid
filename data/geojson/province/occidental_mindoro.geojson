@@ -137,23 +137,6 @@
         "marker-size": "medium",
         "marker-symbol": "mountain"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [120.177937, 13.759774] },
-      "properties": {
-        "name": "Unnamed mountain",
-        "elev": 618,
-        "prom": 618,
-        "coord": "13°45′35″N 120°10′41″E",
-        "prov": ["Occidental Mindoro"],
-        "region": ["Mimaropa"],
-        "isl_grp": "Luzon",
-        "alt_names": [],
-        "marker-color": "#259346",
-        "marker-size": "medium",
-        "marker-symbol": "mountain"
-      }
     }
   ]
 }

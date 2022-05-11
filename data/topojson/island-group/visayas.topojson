@@ -145,14 +145,14 @@
           "type": "Point",
           "coordinates": [124.742503, 11.103821],
           "properties": {
-            "name": "Mount Aminduen (Alto Peak)",
+            "name": "Mount Aminduen",
             "elev": 1325,
             "prom": 1325,
             "coord": "11°6′14″N 124°44′33″E",
             "prov": ["Leyte"],
             "region": ["Region VIII"],
             "isl_grp": "Visayas",
-            "alt_names": [],
+            "alt_names": ["Alto Peak"],
             "marker-color": "#259346",
             "marker-size": "medium",
             "marker-symbol": "mountain"
@@ -436,7 +436,7 @@
           "type": "Point",
           "coordinates": [123.176706, 9.243235],
           "properties": {
-            "name": "Mount Cuernos de Negros (Talinis)",
+            "name": "Mount Cuernos de Negros",
             "elev": 1903,
             "prom": 1482,
             "coord": "9°14′36″N 123°10′36″E",
@@ -444,7 +444,7 @@
             "prov": ["Negros Oriental"],
             "region": ["Region VII"],
             "isl_grp": "Visayas",
-            "alt_names": [],
+            "alt_names": ["Mount Talinis"],
             "marker-color": "#259346",
             "marker-size": "large",
             "marker-symbol": "mountain"
@@ -852,14 +852,14 @@
           "type": "Point",
           "coordinates": [124.337074, 9.72884],
           "properties": {
-            "name": "Mount Matunog (Mayana Peak)",
+            "name": "Mount Matunog",
             "elev": 864,
             "prom": 864,
             "coord": "9°43′44″N 124°20′13″E",
             "prov": ["Bohol"],
             "region": ["Region VII"],
             "isl_grp": "Visayas",
-            "alt_names": [],
+            "alt_names": ["Mayana Peak"],
             "marker-color": "#259346",
             "marker-size": "medium",
             "marker-symbol": "mountain"
@@ -1291,24 +1291,6 @@
             "alt_names": [],
             "marker-color": "#259346",
             "marker-size": "small",
-            "marker-symbol": "mountain"
-          }
-        },
-        {
-          "type": "Point",
-          "coordinates": [124.3, 11.416667],
-          "properties": {
-            "name": "Opow",
-            "elev": 553,
-            "prom": 553,
-            "coord": "11°25′0″N 124°17′60″E",
-            "is_volc": true,
-            "prov": ["Leyte"],
-            "region": ["Region VIII"],
-            "isl_grp": "Visayas",
-            "alt_names": [],
-            "marker-color": "#259346",
-            "marker-size": "medium",
             "marker-symbol": "mountain"
           }
         },

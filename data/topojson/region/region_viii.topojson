@@ -26,14 +26,14 @@
           "type": "Point",
           "coordinates": [124.742503, 11.103821],
           "properties": {
-            "name": "Mount Aminduen (Alto Peak)",
+            "name": "Mount Aminduen",
             "elev": 1325,
             "prom": 1325,
             "coord": "11°6′14″N 124°44′33″E",
             "prov": ["Leyte"],
             "region": ["Region VIII"],
             "isl_grp": "Visayas",
-            "alt_names": [],
+            "alt_names": ["Alto Peak"],
             "marker-color": "#259346",
             "marker-size": "medium",
             "marker-symbol": "mountain"
@@ -577,24 +577,6 @@
         },
         {
           "type": "Point",
-          "coordinates": [124.3, 11.416667],
-          "properties": {
-            "name": "Opow",
-            "elev": 553,
-            "prom": 553,
-            "coord": "11°25′0″N 124°17′60″E",
-            "is_volc": true,
-            "prov": ["Leyte"],
-            "region": ["Region VIII"],
-            "isl_grp": "Visayas",
-            "alt_names": [],
-            "marker-color": "#259346",
-            "marker-size": "medium",
-            "marker-symbol": "mountain"
-          }
-        },
-        {
-          "type": "Point",
           "coordinates": [124.515902, 11.427675],
           "properties": {
             "name": "Pacdahauan Peak",
@@ -632,5 +614,5 @@
     }
   },
   "arcs": [],
-  "bbox": [124.3, 9.932236, 125.291279, 12.437054]
+  "bbox": [124.302299, 9.932236, 125.291279, 12.437054]
 }

@@ -25,14 +25,14 @@
           "type": "Point",
           "coordinates": [124.337074, 9.72884],
           "properties": {
-            "name": "Mount Matunog (Mayana Peak)",
+            "name": "Mount Matunog",
             "elev": 864,
             "prom": 864,
             "coord": "9°43′44″N 124°20′13″E",
             "prov": ["Bohol"],
             "region": ["Region VII"],
             "isl_grp": "Visayas",
-            "alt_names": [],
+            "alt_names": ["Mayana Peak"],
             "marker-color": "#259346",
             "marker-size": "medium",
             "marker-symbol": "mountain"

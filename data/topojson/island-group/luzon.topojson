@@ -852,7 +852,7 @@
           "type": "Point",
           "coordinates": [120.742317, 15.205103],
           "properties": {
-            "name": "Mount Arayat North Peak",
+            "name": "Mount Arayat",
             "elev": 1033,
             "prom": 998,
             "coord": "15°12′18″N 120°44′32″E",
@@ -4521,40 +4521,6 @@
             "alt_names": [],
             "marker-color": "#259346",
             "marker-size": "small",
-            "marker-symbol": "mountain"
-          }
-        },
-        {
-          "type": "Point",
-          "coordinates": [120.177937, 13.759774],
-          "properties": {
-            "name": "Unnamed mountain",
-            "elev": 618,
-            "prom": 618,
-            "coord": "13°45′35″N 120°10′41″E",
-            "prov": ["Occidental Mindoro"],
-            "region": ["Mimaropa"],
-            "isl_grp": "Luzon",
-            "alt_names": [],
-            "marker-color": "#259346",
-            "marker-size": "medium",
-            "marker-symbol": "mountain"
-          }
-        },
-        {
-          "type": "Point",
-          "coordinates": [121.385882, 14.998739],
-          "properties": {
-            "name": "Unnamed mountain",
-            "elev": 1120,
-            "prom": 606,
-            "coord": "14°59′55″N 121°23′9″E",
-            "prov": ["Quezon"],
-            "region": ["Region IV-A"],
-            "isl_grp": "Luzon",
-            "alt_names": [],
-            "marker-color": "#259346",
-            "marker-size": "medium",
             "marker-symbol": "mountain"
           }
         }

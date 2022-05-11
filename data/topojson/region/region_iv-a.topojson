@@ -620,27 +620,10 @@
             "marker-size": "small",
             "marker-symbol": "mountain"
           }
-        },
-        {
-          "type": "Point",
-          "coordinates": [121.385882, 14.998739],
-          "properties": {
-            "name": "Unnamed mountain",
-            "elev": 1120,
-            "prom": 606,
-            "coord": "14°59′55″N 121°23′9″E",
-            "prov": ["Quezon"],
-            "region": ["Region IV-A"],
-            "isl_grp": "Luzon",
-            "alt_names": [],
-            "marker-color": "#259346",
-            "marker-size": "medium",
-            "marker-symbol": "mountain"
-          }
         }
       ]
     }
   },
   "arcs": [],
-  "bbox": [120.60502, 13.390555, 122.787626, 14.998739]
+  "bbox": [120.60502, 13.390555, 122.787626, 14.879422]
 }
