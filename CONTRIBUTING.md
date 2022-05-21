@@ -3,7 +3,7 @@
 Start off by [creating an issue](https://github.com/j4ckofalltrades/bukid/issues) that describes the proposed changes,
 be it adding in new data or updating the existing dataset.
 
-Changes should only be made to the [base GeoJSON dataset](data/geojson/index.geojson), as all other datasets are
+Changes should only be made to the [base GeoJSON dataset](data/geojson/_index.geojson), as all other datasets are
 generated from this file.
 
 Please read the following guidelines to ensure that your changes are consistent with the conventions in this repository.

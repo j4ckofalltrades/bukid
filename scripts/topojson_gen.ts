@@ -3,12 +3,12 @@ import { topology } from "topojson-server"
 import { GEOJSON_ROOT_DIR, ISLAND_GROUPS, PROVINCES, REGIONS, TOPOJSON_ROOT_DIR } from "./constants"
 import { FeatureCollection } from "geojson"
 
-const geoJsonBase = fs.readFileSync(`${GEOJSON_ROOT_DIR}/index.geojson`, "utf-8")
+const geoJsonBase = fs.readFileSync(`${GEOJSON_ROOT_DIR}/_index.geojson`, "utf-8")
 const geoJsonFeatureCollection: FeatureCollection = JSON.parse(geoJsonBase)
 
 // generate base topojson
 fs.writeFileSync(
-  `${TOPOJSON_ROOT_DIR}/index.topojson`,
+  `${TOPOJSON_ROOT_DIR}/_index.topojson`,
   JSON.stringify(topology({ mountains: geoJsonFeatureCollection }))
 )
 

@@ -2,7 +2,7 @@ import * as fs from "fs"
 import { FeatureCollection } from "geojson"
 import { GEOJSON_ROOT_DIR, ISLAND_GROUPS, PROVINCES, REGIONS } from "./constants"
 
-const geoJsonBase = fs.readFileSync(`${GEOJSON_ROOT_DIR}/index.geojson`, "utf-8")
+const geoJsonBase = fs.readFileSync(`${GEOJSON_ROOT_DIR}/_index.geojson`, "utf-8")
 const geoJsonFeatureCollection: FeatureCollection = JSON.parse(geoJsonBase)
 
 ISLAND_GROUPS.forEach(i => {

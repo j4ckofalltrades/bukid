@@ -29,9 +29,9 @@ The entire dataset is available under the [data](./data) directory, including th
 ## Visualization
 
 - Interactive map at [bukid.vercel.app](https://bukid.vercel.app)
-- View the rendered [geojson](data/geojson/index.geojson) and [topojson](data/topojson/index.topojson) directly in GitHub
+- View the rendered [geojson](data/geojson/_index.geojson) and [topojson](data/topojson/index.topojson) directly in GitHub
 - View the GeoJSON files at [geojson.io](https://geojson.io)
-- View changes locally by opening [index.html](index.html)
+- View the interactive map locally by running `npm start`
 
 <img src="assets/map.png" alt="Interactive Map" height="714px" width="542px">
 
