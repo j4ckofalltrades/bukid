@@ -11,7 +11,7 @@
 
 [Interactive map](https://bukid.vercel.app) for mountains in the Philippines.
 
-The full dataset is hosted in the [phl-mountains](https://github.com/j4ckofalltrades/bukid) repo.
+The full dataset is hosted in the [phl-mountains](https://github.com/j4ckofalltrades/phl-mountains) repo.
 
 ## Development
 
