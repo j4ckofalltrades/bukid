@@ -1,10 +1,17 @@
-import { NavigationControl, Map, Popup, LngLatLike, GeoJSONSource } from "maplibre-gl"
+import {
+  NavigationControl,
+  Map,
+  Popup,
+  LngLatLike,
+  GeoJSONSource,
+} from "maplibre-gl"
 import "maplibre-gl/dist/maplibre-gl.css"
-import dataset from "../data/geojson/_index.geojson"
+import dataset from "../phl-mountains/data/geojson/_index.geojson"
 
 const map = new Map({
   container: "map",
-  style: "https://api.maptiler.com/maps/topo/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
+  style:
+    "https://api.maptiler.com/maps/topo/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
   center: [121.652, 12.954],
   bounds: [
     [114.0952145, 4.2158064],
@@ -14,15 +21,13 @@ const map = new Map({
 })
 
 map.on("load", () => {
-  map.addSource(
-    "mountains",
-    {
-      type: "geojson",
-      data: dataset,
-      cluster: true,
-      clusterMaxZoom: 14, // Max zoom to cluster points on
-      clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
-    })
+  map.addSource("mountains", {
+    type: "geojson",
+    data: dataset,
+    cluster: true,
+    clusterMaxZoom: 14, // Max zoom to cluster points on
+    clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
+  })
 
   map.addLayer({
     id: "clusters",
@@ -44,15 +49,7 @@ map.on("load", () => {
         50,
         "#0cc034",
       ],
-      "circle-radius": [
-        "step",
-        ["get", "point_count"],
-        15,
-        10,
-        25,
-        50,
-        35,
-      ],
+      "circle-radius": ["step", ["get", "point_count"], 15, 10, 25, 50, 35],
     },
   })
 
@@ -63,10 +60,7 @@ map.on("load", () => {
     filter: ["has", "point_count"],
     layout: {
       "text-field": "{point_count_abbreviated}",
-      "text-font": [
-        "Open Sans Semibold",
-        "Arial Unicode MS Bold",
-      ],
+      "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
       "text-size": 12,
     },
   })
@@ -84,49 +78,35 @@ map.on("load", () => {
       //   * icon-size of 1 when elevation <= 500
       //   * icon-size of 1.25 when elevation >= 500 && < 1500
       //   * icon-size of 1.5 when elevation >= 1500
-      "icon-size": [
-        "step",
-        ["get", "elev"],
-        1,
-        501,
-        1.25,
-        1500,
-        1.5,
-      ],
+      "icon-size": ["step", ["get", "elev"], 1, 501, 1.25, 1500, 1.5],
       "text-field": ["get", "name"],
       "text-size": 11,
-      "text-font": [
-        "Open Sans Semibold",
-        "Arial Unicode MS Bold",
-      ],
+      "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
       "text-offset": [0, 1.25],
       "text-anchor": "top",
     },
   })
 
   // inspect a cluster on click
-  map.on(
-    "click",
-    "clusters",
-    (e) => {
-      const features = map.queryRenderedFeatures(e.point, {
-        layers: ["clusters"],
-      })
-      const source = map.getSource("mountains") as GeoJSONSource
-      source.getClusterExpansionZoom(
-        features[0].properties.cluster_id,
-        (err, zoom) => {
-          if (err) return
-
-          if ("coordinates" in features[0].geometry) {
-            map.easeTo({
-              center: features[0].geometry.coordinates as LngLatLike,
-              zoom: zoom!!,
-            })
-          }
-        },
-      )
+  map.on("click", "clusters", (e) => {
+    const features = map.queryRenderedFeatures(e.point, {
+      layers: ["clusters"],
     })
+    const source = map.getSource("mountains") as GeoJSONSource
+    source.getClusterExpansionZoom(
+      features[0].properties.cluster_id,
+      (err, zoom) => {
+        if (err) return
+
+        if ("coordinates" in features[0].geometry) {
+          map.easeTo({
+            center: features[0].geometry.coordinates as LngLatLike,
+            zoom: zoom!,
+          })
+        }
+      }
+    )
+  })
 
   // show mountain details on hover
   const mountainInfoPopup = new Popup({
@@ -138,65 +118,67 @@ map.on("load", () => {
   // the unclustered-point layer, open a popup at
   // the location of the feature, with
   // description HTML from its properties.
-  map.on(
-    "mouseenter",
-    "unclustered-point",
-    (e) => {
-      map.getCanvas().style.cursor = "pointer"
+  map.on("mouseenter", "unclustered-point", (e) => {
+    map.getCanvas().style.cursor = "pointer"
 
-      const feature = e.features!![0]
-      if ("coordinates" in feature.geometry) {
-        const coordinates: number[] = feature.geometry.coordinates.slice() as number[]
+    const feature = e.features![0]
+    if ("coordinates" in feature.geometry) {
+      const coordinates: number[] =
+        feature.geometry.coordinates.slice() as number[]
 
-        // Ensure that if the map is zoomed out such that
-        // multiple copies of the feature are visible, the
-        // popup appears over the copy being pointed to.
-        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-          coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360
-        }
-
-        const props = feature.properties
-        const name = props?.name
-        const elevation = props?.elev
-        const prominence = props?.prom
-        const provinces = JSON.parse(props?.prov)
-        const regions = JSON.parse(props?.region)
-
-        mountainInfoPopup
-          .setLngLat(coordinates as LngLatLike)
-          .setHTML(
-            "<strong>" + name + "</strong>"
-            + "<p>"
-            + "Elevation: " + elevation + "m" + "<br/>"
-            + "Prominence: " + prominence + "m" + "<br/>"
-            + "Province: " + provinces.join(", ") + "<br/>"
-            + "Region: " + regions.join(", ") + "<br/>"
-            + "</p>")
-          .addTo(map)
+      // Ensure that if the map is zoomed out such that
+      // multiple copies of the feature are visible, the
+      // popup appears over the copy being pointed to.
+      while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360
       }
-    })
 
-  map.on(
-    "mouseleave",
-    "unclustered-point",
-    () => {
-      map.getCanvas().style.cursor = ""
-      mountainInfoPopup.remove()
-    })
+      const props = feature.properties
+      const name = props?.name
+      const elevation = props?.elev
+      const prominence = props?.prom
+      const provinces = JSON.parse(props?.prov)
+      const regions = JSON.parse(props?.region)
 
-  map.on(
-    "mouseenter",
-    "clusters",
-    () => {
-      map.getCanvas().style.cursor = "pointer"
-    })
+      mountainInfoPopup
+        .setLngLat(coordinates as LngLatLike)
+        .setHTML(
+          "<strong>" +
+            name +
+            "</strong>" +
+            "<p>" +
+            "Elevation: " +
+            elevation +
+            "m" +
+            "<br/>" +
+            "Prominence: " +
+            prominence +
+            "m" +
+            "<br/>" +
+            "Province: " +
+            provinces.join(", ") +
+            "<br/>" +
+            "Region: " +
+            regions.join(", ") +
+            "<br/>" +
+            "</p>"
+        )
+        .addTo(map)
+    }
+  })
 
-  map.on(
-    "mouseleave",
-    "clusters",
-    () => {
-      map.getCanvas().style.cursor = ""
-    })
+  map.on("mouseleave", "unclustered-point", () => {
+    map.getCanvas().style.cursor = ""
+    mountainInfoPopup.remove()
+  })
+
+  map.on("mouseenter", "clusters", () => {
+    map.getCanvas().style.cursor = "pointer"
+  })
+
+  map.on("mouseleave", "clusters", () => {
+    map.getCanvas().style.cursor = ""
+  })
 
   map.addControl(new NavigationControl({}))
 })

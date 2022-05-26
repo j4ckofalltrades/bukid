@@ -1,10 +1,6 @@
-dataset: geojson topojson fmt
+init:
+	git submodule update --init
+	npm ci
 
-geojson:
-	npx ts-node scripts/geojson_gen.ts
-
-topojson:
-	npx ts-node scripts/topojson_gen.ts
-
-fmt:
-	prettier --write data
+start:
+	npm start
