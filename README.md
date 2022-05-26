@@ -9,7 +9,7 @@
 
 > búkid - Capiznon word for mountain.
 
-Interactive map (data visualization) for mountains in the Philippines.
+[Interactive map](https://bukid.vercel.app) for mountains in the Philippines.
 
 The full dataset is hosted in the [phl-mountains](https://github.com/j4ckofalltrades/bukid) repo.
 
