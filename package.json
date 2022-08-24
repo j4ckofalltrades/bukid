@@ -1,10 +1,10 @@
 {
   "name": "bukid",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "version": "1.0.0",
   "description": "Interactive map (data visualization) for mountains in the Philippines.",
-  "main": "index.html",
   "scripts": {
-    "build": "parcel build index.html -d public --no-source-maps",
+    "build": "parcel build index.html --public-url ./ --no-source-maps",
     "prepare": "husky install",
     "start": "parcel index.html --open",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,6 +20,9 @@
   },
   "homepage": "https://bukid.vercel.app",
   "devDependencies": {
+    "@parcel/config-default": "^2.7.0",
+    "@parcel/transformer-raw": "^2.7.0",
+    "@parcel/transformer-typescript-tsc": "^2.7.0",
     "@types/geojson": "7946.0.8",
     "@typescript-eslint/eslint-plugin": "^5.14.0",
     "@typescript-eslint/parser": "^5.14.0",
@@ -28,7 +31,7 @@
     "husky": "^7.0.4",
     "lint-staged": "^12.4.1",
     "maplibre-gl": "^2.1.9",
-    "parcel-bundler": "^1.12.5",
+    "parcel": "^2.7.0",
     "prettier": "^2.6.2",
     "topojson-server": "^3.0.1",
     "ts-node": "^10.7.0",

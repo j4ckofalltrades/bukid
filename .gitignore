@@ -1,6 +1,7 @@
-.cache/
+.parcel-cache/
 .vercel/
 .eslintcache
 dist/
 node_modules/
 public/
+.vercel
