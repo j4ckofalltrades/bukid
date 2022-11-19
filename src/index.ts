@@ -1,9 +1,9 @@
 import {
-  NavigationControl,
-  Map,
-  Popup,
-  LngLatLike,
   GeoJSONSource,
+  LngLatLike,
+  Map,
+  NavigationControl,
+  Popup,
 } from "maplibre-gl"
 import "maplibre-gl/dist/maplibre-gl.css"
 import dataset from "../phl-mountains/data/geojson/_index.geojson"
@@ -121,8 +121,8 @@ map.on("load", () => {
   map.on("mouseenter", "unclustered-point", (e) => {
     map.getCanvas().style.cursor = "pointer"
 
-    const feature = e.features![0]
-    if ("coordinates" in feature.geometry) {
+    const feature = e.features && e.features[0]
+    if (feature && "coordinates" in feature.geometry) {
       const coordinates: number[] =
         feature.geometry.coordinates.slice() as number[]
 
