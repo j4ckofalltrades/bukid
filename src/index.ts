@@ -10,8 +10,7 @@ import dataset from "../phl-mountains/data/geojson/_index.geojson"
 
 const map = new Map({
   container: "map",
-  style:
-    "https://api.maptiler.com/maps/topo/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
+  style: `https://api.maptiler.com/maps/topo/style.json?key=${process.env.MAPTILER_API_KEY}`,
   center: [121.652, 12.954],
   bounds: [
     [114.0952145, 4.2158064],
@@ -134,11 +133,11 @@ map.on("load", () => {
       }
 
       const props = feature.properties
-      const name = props?.name
-      const elevation = props?.elev
-      const prominence = props?.prom
-      const provinces = JSON.parse(props?.prov)
-      const regions = JSON.parse(props?.region)
+      const name = props?.name as string
+      const elevation = props?.elev as number
+      const prominence = props?.prom as string
+      const provinces = JSON.parse(props?.prov) as string[]
+      const regions = JSON.parse(props?.region) as string[]
 
       mountainInfoPopup
         .setLngLat(coordinates as LngLatLike)

@@ -24,55 +24,14 @@
     "@parcel/transformer-raw": "^2.8.3",
     "@parcel/transformer-typescript-tsc": "^2.8.3",
     "@types/geojson": "7946.0.10",
-    "@typescript-eslint/eslint-plugin": "^5.55.0",
-    "@typescript-eslint/parser": "^5.55.0",
-    "eslint": "^8.36.0",
-    "eslint-config-prettier": "^8.7.0",
+    "@types/node": "^16.18.23",
+    "dotenv": "^16.0.3",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.0",
     "maplibre-gl": "^2.4.0",
     "parcel": "^2.8.3",
     "prettier": "^2.8.4",
     "typescript": "^5.0.2"
-  },
-  "eslintConfig": {
-    "env": {
-      "browser": true,
-      "es2021": true
-    },
-    "extends": [
-      "eslint:recommended",
-      "plugin:@typescript-eslint/recommended",
-      "plugin:@typescript-eslint/recommended-requiring-type-checking",
-      "prettier"
-    ],
-    "parser": "@typescript-eslint/parser",
-    "parserOptions": {
-      "ecmaVersion": 12,
-      "sourceType": "module",
-      "project": ["tsconfig.json"]
-    },
-    "plugins": [
-      "@typescript-eslint"
-    ],
-    "rules": {
-      "indent": [
-        "error",
-        2
-      ],
-      "linebreak-style": [
-        "error",
-        "unix"
-      ],
-      "quotes": [
-        "error",
-        "double"
-      ],
-      "semi": [
-        "error",
-        "never"
-      ]
-    }
   },
   "prettier": {
     "trailingComma": "es5",
@@ -82,7 +41,6 @@
   },
   "lint-staged": {
     "*.ts": [
-      "eslint --cache --fix",
       "prettier --write src"
     ]
   }
