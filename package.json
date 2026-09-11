@@ -4,9 +4,10 @@
   "version": "1.0.0",
   "description": "Interactive map (data visualization) for mountains in the Philippines.",
   "scripts": {
-    "build": "parcel build src/index.html --public-url ./ --no-source-maps",
+    "build": "npm run build:worker && parcel build src/index.html --public-url ./ --no-source-maps",
+    "build:worker": "node scripts/build-maplibre-worker.mjs",
     "prepare": "husky install",
-    "start": "parcel src/index.html --open",
+    "start": "npm run build:worker && parcel src/index.html --open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,6 +27,7 @@
     "@types/geojson": "7946.0.10",
     "@types/node": "^16.18.23",
     "dotenv": "^16.0.3",
+    "esbuild": "^0.28.2",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.0",
     "maplibre-gl": "^6.4.1",

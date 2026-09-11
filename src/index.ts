@@ -4,9 +4,12 @@ import {
   Map,
   NavigationControl,
   Popup,
+  setWorkerUrl,
 } from "maplibre-gl"
 import "maplibre-gl/dist/maplibre-gl.css"
 import dataset from "../phl-mountains/data/geojson/_index.geojson"
+
+setWorkerUrl(new URL("./vendor/maplibre-gl-worker.mjs", import.meta.url).href)
 
 const map = new Map({
   container: "map",
@@ -87,24 +90,26 @@ map.on("load", () => {
   })
 
   // inspect a cluster on click
-  map.on("click", "clusters", (e) => {
+  map.on("click", "clusters", async (e) => {
     const features = map.queryRenderedFeatures(e.point, {
       layers: ["clusters"],
     })
     const source = map.getSource("mountains") as GeoJSONSource
-    source.getClusterExpansionZoom(
-      features[0].properties.cluster_id,
-      (err, zoom) => {
-        if (err) return
 
-        if ("coordinates" in features[0].geometry) {
-          map.easeTo({
-            center: features[0].geometry.coordinates as LngLatLike,
-            zoom: zoom!,
-          })
-        }
+    try {
+      const zoom = await source.getClusterExpansionZoom(
+        features[0].properties.cluster_id
+      )
+
+      if ("coordinates" in features[0].geometry) {
+        map.easeTo({
+          center: features[0].geometry.coordinates as LngLatLike,
+          zoom,
+        })
       }
-    )
+    } catch {
+      return
+    }
   })
 
   // show mountain details on hover
@@ -136,8 +141,8 @@ map.on("load", () => {
       const name = props?.name as string
       const elevation = props?.elev as number
       const prominence = props?.prom as string
-      const provinces = JSON.parse(props?.prov) as string[]
-      const regions = JSON.parse(props?.region) as string[]
+      const provinces = props?.prov as string[]
+      const regions = props?.region as string[]
 
       mountainInfoPopup
         .setLngLat(coordinates as LngLatLike)
